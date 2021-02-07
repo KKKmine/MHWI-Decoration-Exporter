@@ -1,0 +1,5349 @@
+﻿[
+    {
+        "id": 727,
+        "name": "耐毒珠【１】",
+        "slot": 1,
+        "skills": [
+            {
+                "href": "/cht/skill/Poison%20Resistance",
+                "level": 1
+            }
+        ]
+    },
+    {
+        "id": 728,
+        "name": "耐麻珠【１】",
+        "slot": 1,
+        "skills": [
+            {
+                "href": "/cht/skill/Paralysis%20Resistance",
+                "level": 1
+            }
+        ]
+    },
+    {
+        "id": 729,
+        "name": "耐眠珠【１】",
+        "slot": 1,
+        "skills": [
+            {
+                "href": "/cht/skill/Sleep%20Resistance",
+                "level": 1
+            }
+        ]
+    },
+    {
+        "id": 730,
+        "name": "耐絕珠【１】",
+        "slot": 1,
+        "skills": [
+            {
+                "href": "/cht/skill/Stun%20Resistance",
+                "level": 1
+            }
+        ]
+    },
+    {
+        "id": 731,
+        "name": "耐爆珠【１】",
+        "slot": 1,
+        "skills": [
+            {
+                "href": "/cht/skill/Blast%20Resistance",
+                "level": 1
+            }
+        ]
+    },
+    {
+        "id": 732,
+        "name": "耐裂珠【１】",
+        "slot": 1,
+        "skills": [
+            {
+                "href": "/cht/skill/Bleeding%20Resistance",
+                "level": 1
+            }
+        ]
+    },
+    {
+        "id": 733,
+        "name": "耐防珠【１】",
+        "slot": 1,
+        "skills": [
+            {
+                "href": "/cht/skill/Iron%20Skin",
+                "level": 1
+            }
+        ]
+    },
+    {
+        "id": 734,
+        "name": "防音珠【３】",
+        "slot": 3,
+        "skills": [
+            {
+                "href": "/cht/skill/Earplugs",
+                "level": 1
+            }
+        ]
+    },
+    {
+        "id": 735,
+        "name": "防風珠【２】",
+        "slot": 2,
+        "skills": [
+            {
+                "href": "/cht/skill/Windproof",
+                "level": 1
+            }
+        ]
+    },
+    {
+        "id": 736,
+        "name": "耐震珠【２】",
+        "slot": 2,
+        "skills": [
+            {
+                "href": "/cht/skill/Tremor%20Resistance",
+                "level": 1
+            }
+        ]
+    },
+    {
+        "id": 739,
+        "name": "攻撃珠【１】",
+        "slot": 1,
+        "skills": [
+            {
+                "href": "/cht/skill/Attack%20Boost",
+                "level": 1
+            }
+        ]
+    },
+    {
+        "id": 740,
+        "name": "防禦珠【１】",
+        "slot": 1,
+        "skills": [
+            {
+                "href": "/cht/skill/Defense%20Boost",
+                "level": 1
+            }
+        ]
+    },
+    {
+        "id": 741,
+        "name": "體力珠【１】",
+        "slot": 1,
+        "skills": [
+            {
+                "href": "/cht/skill/Health%20Boost",
+                "level": 1
+            }
+        ]
+    },
+    {
+        "id": 742,
+        "name": "早復珠【１】",
+        "slot": 1,
+        "skills": [
+            {
+                "href": "/cht/skill/Recovery%20Speed",
+                "level": 1
+            }
+        ]
+    },
+    {
+        "id": 743,
+        "name": "耐火珠【１】",
+        "slot": 1,
+        "skills": [
+            {
+                "href": "/cht/skill/Fire%20Resistance",
+                "level": 1
+            }
+        ]
+    },
+    {
+        "id": 744,
+        "name": "耐水珠【１】",
+        "slot": 1,
+        "skills": [
+            {
+                "href": "/cht/skill/Water%20Resistance",
+                "level": 1
+            }
+        ]
+    },
+    {
+        "id": 745,
+        "name": "耐冰珠【１】",
+        "slot": 1,
+        "skills": [
+            {
+                "href": "/cht/skill/Ice%20Resistance",
+                "level": 1
+            }
+        ]
+    },
+    {
+        "id": 746,
+        "name": "耐雷珠【１】",
+        "slot": 1,
+        "skills": [
+            {
+                "href": "/cht/skill/Thunder%20Resistance",
+                "level": 1
+            }
+        ]
+    },
+    {
+        "id": 747,
+        "name": "耐龍珠【１】",
+        "slot": 1,
+        "skills": [
+            {
+                "href": "/cht/skill/Dragon%20Resistance",
+                "level": 1
+            }
+        ]
+    },
+    {
+        "id": 748,
+        "name": "耐屬珠【１】",
+        "slot": 1,
+        "skills": [
+            {
+                "href": "/cht/skill/Blight%20Resistance",
+                "level": 1
+            }
+        ]
+    },
+    {
+        "id": 749,
+        "name": "火炎珠【１】",
+        "slot": 1,
+        "skills": [
+            {
+                "href": "/cht/skill/Fire%20Attack",
+                "level": 1
+            }
+        ]
+    },
+    {
+        "id": 750,
+        "name": "流水珠【１】",
+        "slot": 1,
+        "skills": [
+            {
+                "href": "/cht/skill/Water%20Attack",
+                "level": 1
+            }
+        ]
+    },
+    {
+        "id": 751,
+        "name": "冰結珠【１】",
+        "slot": 1,
+        "skills": [
+            {
+                "href": "/cht/skill/Ice%20Attack",
+                "level": 1
+            }
+        ]
+    },
+    {
+        "id": 752,
+        "name": "雷光珠【１】",
+        "slot": 1,
+        "skills": [
+            {
+                "href": "/cht/skill/Thunder%20Attack",
+                "level": 1
+            }
+        ]
+    },
+    {
+        "id": 753,
+        "name": "破龍珠【１】",
+        "slot": 1,
+        "skills": [
+            {
+                "href": "/cht/skill/Dragon%20Attack",
+                "level": 1
+            }
+        ]
+    },
+    {
+        "id": 754,
+        "name": "毒珠【１】",
+        "slot": 1,
+        "skills": [
+            {
+                "href": "/cht/skill/Poison%20Attack",
+                "level": 1
+            }
+        ]
+    },
+    {
+        "id": 755,
+        "name": "麻痺珠【１】",
+        "slot": 1,
+        "skills": [
+            {
+                "href": "/cht/skill/Paralysis%20Attack",
+                "level": 1
+            }
+        ]
+    },
+    {
+        "id": 756,
+        "name": "睡眠珠【１】",
+        "slot": 1,
+        "skills": [
+            {
+                "href": "/cht/skill/Sleep%20Attack",
+                "level": 1
+            }
+        ]
+    },
+    {
+        "id": 757,
+        "name": "爆破珠【１】",
+        "slot": 1,
+        "skills": [
+            {
+                "href": "/cht/skill/Blast%20Attack",
+                "level": 1
+            }
+        ]
+    },
+    {
+        "id": 758,
+        "name": "毒瓶珠【３】",
+        "slot": 3,
+        "skills": [
+            {
+                "href": "/cht/skill/Poison%20Functionality",
+                "level": 1
+            }
+        ]
+    },
+    {
+        "id": 759,
+        "name": "痺瓶珠【３】",
+        "slot": 3,
+        "skills": [
+            {
+                "href": "/cht/skill/Para%20Functionality",
+                "level": 1
+            }
+        ]
+    },
+    {
+        "id": 760,
+        "name": "眠瓶珠【３】",
+        "slot": 3,
+        "skills": [
+            {
+                "href": "/cht/skill/Sleep%20Functionality",
+                "level": 1
+            }
+        ]
+    },
+    {
+        "id": 761,
+        "name": "爆瓶珠【３】",
+        "slot": 3,
+        "skills": [
+            {
+                "href": "/cht/skill/Blast%20Functionality",
+                "level": 1
+            }
+        ]
+    },
+    {
+        "id": 763,
+        "name": "解放珠【３】",
+        "slot": 3,
+        "skills": [
+            {
+                "href": "/cht/skill/Free%20Elem%26Ammo%20Up",
+                "level": 1
+            }
+        ]
+    },
+    {
+        "id": 764,
+        "name": "達人珠【１】",
+        "slot": 1,
+        "skills": [
+            {
+                "href": "/cht/skill/Critical%20Eye",
+                "level": 1
+            }
+        ]
+    },
+    {
+        "id": 765,
+        "name": "超心珠【２】",
+        "slot": 2,
+        "skills": [
+            {
+                "href": "/cht/skill/Critical%20Boost",
+                "level": 1
+            }
+        ]
+    },
+    {
+        "id": 766,
+        "name": "痛擊珠【２】",
+        "slot": 2,
+        "skills": [
+            {
+                "href": "/cht/skill/Weakness%20Exploit",
+                "level": 1
+            }
+        ]
+    },
+    {
+        "id": 767,
+        "name": "縮短珠【２】",
+        "slot": 2,
+        "skills": [
+            {
+                "href": "/cht/skill/Focus",
+                "level": 1
+            }
+        ]
+    },
+    {
+        "id": 768,
+        "name": "匠珠【３】",
+        "slot": 3,
+        "skills": [
+            {
+                "href": "/cht/skill/Handicraft",
+                "level": 1
+            }
+        ]
+    },
+    {
+        "id": 769,
+        "name": "拔刀珠【２】",
+        "slot": 2,
+        "skills": [
+            {
+                "href": "/cht/skill/Critical%20Draw",
+                "level": 1
+            }
+        ]
+    },
+    {
+        "id": 770,
+        "name": "重撃珠【２】",
+        "slot": 2,
+        "skills": [
+            {
+                "href": "/cht/skill/Partbreaker",
+                "level": 1
+            }
+        ]
+    },
+    {
+        "id": 771,
+        "name": "ＫＯ珠【２】",
+        "slot": 2,
+        "skills": [
+            {
+                "href": "/cht/skill/Slugger",
+                "level": 1
+            }
+        ]
+    },
+    {
+        "id": 772,
+        "name": "奪氣珠【１】",
+        "slot": 1,
+        "skills": [
+            {
+                "href": "/cht/skill/Stamina%20Thief",
+                "level": 1
+            }
+        ]
+    },
+    {
+        "id": 774,
+        "name": "飛燕珠【２】",
+        "slot": 2,
+        "skills": [
+            {
+                "href": "/cht/skill/Airborne",
+                "level": 1
+            }
+        ]
+    },
+    {
+        "id": 775,
+        "name": "全開珠【２】",
+        "slot": 2,
+        "skills": [
+            {
+                "href": "/cht/skill/Latent%20Power",
+                "level": 1
+            }
+        ]
+    },
+    {
+        "id": 776,
+        "name": "挑戰珠【２】",
+        "slot": 2,
+        "skills": [
+            {
+                "href": "/cht/skill/Agitator",
+                "level": 1
+            }
+        ]
+    },
+    {
+        "id": 777,
+        "name": "無傷珠【２】",
+        "slot": 2,
+        "skills": [
+            {
+                "href": "/cht/skill/Peak%20Performance",
+                "level": 1
+            }
+        ]
+    },
+    {
+        "id": 778,
+        "name": "底力珠【２】",
+        "slot": 2,
+        "skills": [
+            {
+                "href": "/cht/skill/Heroics",
+                "level": 1
+            }
+        ]
+    },
+    {
+        "id": 779,
+        "name": "逆境珠【１】",
+        "slot": 1,
+        "skills": [
+            {
+                "href": "/cht/skill/Fortify",
+                "level": 1
+            }
+        ]
+    },
+    {
+        "id": 780,
+        "name": "逆上珠【２】",
+        "slot": 2,
+        "skills": [
+            {
+                "href": "/cht/skill/Resentment",
+                "level": 1
+            }
+        ]
+    },
+    {
+        "id": 781,
+        "name": "鼓笛珠【１】",
+        "slot": 1,
+        "skills": [
+            {
+                "href": "/cht/skill/Horn%20Maestro",
+                "level": 1
+            }
+        ]
+    },
+    {
+        "id": 782,
+        "name": "增彈珠【２】",
+        "slot": 2,
+        "skills": [
+            {
+                "href": "/cht/skill/Capacity%20Boost",
+                "level": 1
+            }
+        ]
+    },
+    {
+        "id": 783,
+        "name": "特射珠【１】",
+        "slot": 1,
+        "skills": [
+            {
+                "href": "/cht/skill/Special%20Ammo%20Boost",
+                "level": 1
+            }
+        ]
+    },
+    {
+        "id": 784,
+        "name": "砲術珠【１】",
+        "slot": 1,
+        "skills": [
+            {
+                "href": "/cht/skill/Artillery",
+                "level": 1
+            }
+        ]
+    },
+    {
+        "id": 785,
+        "name": "砲手珠【１】",
+        "slot": 1,
+        "skills": [
+            {
+                "href": "/cht/skill/Heavy%20Artillery",
+                "level": 1
+            }
+        ]
+    },
+    {
+        "id": 786,
+        "name": "強走珠【２】",
+        "slot": 2,
+        "skills": [
+            {
+                "href": "/cht/skill/Marathon%20Runner",
+                "level": 1
+            }
+        ]
+    },
+    {
+        "id": 787,
+        "name": "體術珠【２】",
+        "slot": 2,
+        "skills": [
+            {
+                "href": "/cht/skill/Constitution",
+                "level": 1
+            }
+        ]
+    },
+    {
+        "id": 789,
+        "name": "早氣珠【２】",
+        "slot": 2,
+        "skills": [
+            {
+                "href": "/cht/skill/Stamina%20Surge",
+                "level": 1
+            }
+        ]
+    },
+    {
+        "id": 790,
+        "name": "無食珠【１】",
+        "slot": 1,
+        "skills": [
+            {
+                "href": "/cht/skill/Hunger%20Resistance",
+                "level": 1
+            }
+        ]
+    },
+    {
+        "id": 791,
+        "name": "回避珠【２】",
+        "slot": 2,
+        "skills": [
+            {
+                "href": "/cht/skill/Evade%20Window",
+                "level": 1
+            }
+        ]
+    },
+    {
+        "id": 792,
+        "name": "跳躍珠【２】",
+        "slot": 2,
+        "skills": [
+            {
+                "href": "/cht/skill/Evade%20Extender",
+                "level": 1
+            }
+        ]
+    },
+    {
+        "id": 793,
+        "name": "鐵壁珠【１】",
+        "slot": 1,
+        "skills": [
+            {
+                "href": "/cht/skill/Guard",
+                "level": 1
+            }
+        ]
+    },
+    {
+        "id": 794,
+        "name": "速納珠【１】",
+        "slot": 1,
+        "skills": [
+            {
+                "href": "/cht/skill/Quick%20Sheath",
+                "level": 1
+            }
+        ]
+    },
+    {
+        "id": 795,
+        "name": "友愛珠【１】",
+        "slot": 1,
+        "skills": [
+            {
+                "href": "/cht/skill/Wide-Range",
+                "level": 1
+            }
+        ]
+    },
+    {
+        "id": 796,
+        "name": "持續珠【１】",
+        "slot": 1,
+        "skills": [
+            {
+                "href": "/cht/skill/Item%20Prolonger",
+                "level": 1
+            }
+        ]
+    },
+    {
+        "id": 797,
+        "name": "節食珠【１】",
+        "slot": 1,
+        "skills": [
+            {
+                "href": "/cht/skill/Free%20Meal",
+                "level": 1
+            }
+        ]
+    },
+    {
+        "id": 798,
+        "name": "快吃珠【１】",
+        "slot": 1,
+        "skills": [
+            {
+                "href": "/cht/skill/Speed%20Eating",
+                "level": 1
+            }
+        ]
+    },
+    {
+        "id": 799,
+        "name": "研磨珠【１】",
+        "slot": 1,
+        "skills": [
+            {
+                "href": "/cht/skill/Speed%20Sharpening",
+                "level": 1
+            }
+        ]
+    },
+    {
+        "id": 800,
+        "name": "爆師珠【１】",
+        "slot": 1,
+        "skills": [
+            {
+                "href": "/cht/skill/Bombardier",
+                "level": 1
+            }
+        ]
+    },
+    {
+        "id": 801,
+        "name": "茸好珠【１】",
+        "slot": 1,
+        "skills": [
+            {
+                "href": "/cht/skill/Mushroomancer",
+                "level": 1
+            }
+        ]
+    },
+    {
+        "id": 808,
+        "name": "加護珠【１】",
+        "slot": 1,
+        "skills": [
+            {
+                "href": "/cht/skill/Divine%20Blessing",
+                "level": 1
+            }
+        ]
+    },
+    {
+        "id": 809,
+        "name": "指示珠【１】",
+        "slot": 1,
+        "skills": [
+            {
+                "href": "/cht/skill/Palico%20Rally",
+                "level": 1
+            }
+        ]
+    },
+    {
+        "id": 810,
+        "name": "植學珠【１】",
+        "slot": 1,
+        "skills": [
+            {
+                "href": "/cht/skill/Botanist",
+                "level": 1
+            }
+        ]
+    },
+    {
+        "id": 811,
+        "name": "地學珠【１】",
+        "slot": 1,
+        "skills": [
+            {
+                "href": "/cht/skill/Geologist",
+                "level": 1
+            }
+        ]
+    },
+    {
+        "id": 812,
+        "name": "渾身珠【２】",
+        "slot": 2,
+        "skills": [
+            {
+                "href": "/cht/skill/Maximum%20Might",
+                "level": 1
+            }
+        ]
+    },
+    {
+        "id": 813,
+        "name": "投石珠【１】",
+        "slot": 1,
+        "skills": [
+            {
+                "href": "/cht/skill/Slinger%20Capacity",
+                "level": 1
+            }
+        ]
+    },
+    {
+        "id": 814,
+        "name": "潛伏珠【１】",
+        "slot": 1,
+        "skills": [
+            {
+                "href": "/cht/skill/Stealth",
+                "level": 1
+            }
+        ]
+    },
+    {
+        "id": 815,
+        "name": "耐衝珠【３】",
+        "slot": 3,
+        "skills": [
+            {
+                "href": "/cht/skill/Flinch%20Free",
+                "level": 1
+            }
+        ]
+    },
+    {
+        "id": 819,
+        "name": "煙復珠【１】",
+        "slot": 1,
+        "skills": [
+            {
+                "href": "/cht/skill/Survival%20Expert",
+                "level": 1
+            }
+        ]
+    },
+    {
+        "id": 820,
+        "name": "沼渡珠【１】",
+        "slot": 1,
+        "skills": [
+            {
+                "href": "/cht/skill/Aquatic%26Polar%20Mobility",
+                "level": 1
+            }
+        ]
+    },
+    {
+        "id": 824,
+        "name": "標本珠【１】",
+        "slot": 1,
+        "skills": [
+            {
+                "href": "/cht/skill/Entomologist",
+                "level": 1
+            }
+        ]
+    },
+    {
+        "id": 826,
+        "name": "嗅覺珠【１】",
+        "slot": 1,
+        "skills": [
+            {
+                "href": "/cht/skill/Scenthound",
+                "level": 1
+            }
+        ]
+    },
+    {
+        "id": 828,
+        "name": "威嚇珠【１】",
+        "slot": 1,
+        "skills": [
+            {
+                "href": "/cht/skill/Intimidator",
+                "level": 1
+            }
+        ]
+    },
+    {
+        "id": 832,
+        "name": "滑走珠【２】",
+        "slot": 2,
+        "skills": [
+            {
+                "href": "/cht/skill/Affinity%20Sliding",
+                "level": 1
+            }
+        ]
+    },
+    {
+        "id": 833,
+        "name": "治癒珠【１】",
+        "slot": 1,
+        "skills": [
+            {
+                "href": "/cht/skill/Recovery%20Up",
+                "level": 1
+            }
+        ]
+    },
+    {
+        "id": 834,
+        "name": "強彈珠【３】",
+        "slot": 3,
+        "skills": [
+            {
+                "href": "/cht/skill/Normal%20Shots",
+                "level": 1
+            }
+        ]
+    },
+    {
+        "id": 835,
+        "name": "貫通珠【３】",
+        "slot": 3,
+        "skills": [
+            {
+                "href": "/cht/skill/Piercing%20Shots",
+                "level": 1
+            }
+        ]
+    },
+    {
+        "id": 836,
+        "name": "散彈珠【３】",
+        "slot": 3,
+        "skills": [
+            {
+                "href": "/cht/skill/Spread%26Power%20Shots",
+                "level": 1
+            }
+        ]
+    },
+    {
+        "id": 837,
+        "name": "昂揚珠【２】",
+        "slot": 2,
+        "skills": [
+            {
+                "href": "/cht/skill/Power%20Prolonger",
+                "level": 1
+            }
+        ]
+    },
+    {
+        "id": 838,
+        "name": "絕路珠【１】",
+        "slot": 1,
+        "skills": [
+            {
+                "href": "/cht/skill/Resuscitate",
+                "level": 1
+            }
+        ]
+    },
+    {
+        "id": 839,
+        "name": "龍封珠【３】",
+        "slot": 3,
+        "skills": [
+            {
+                "href": "/cht/skill/Elderseal%20Boost",
+                "level": 1
+            }
+        ]
+    },
+    {
+        "id": 842,
+        "name": "整備珠【１】",
+        "slot": 1,
+        "skills": [
+            {
+                "href": "/cht/skill/Tool%20Specialist",
+                "level": 1
+            }
+        ]
+    },
+    {
+        "id": 874,
+        "name": "強弓珠【２】",
+        "slot": 2,
+        "skills": [
+            {
+                "href": "/cht/skill/Bow%20Charge%20Plus",
+                "level": 1
+            }
+        ]
+    },
+    {
+        "id": 875,
+        "name": "心眼珠【２】",
+        "slot": 2,
+        "skills": [
+            {
+                "href": "/cht/skill/Mind%27s%20Eye%26Ballistics",
+                "level": 1
+            }
+        ]
+    },
+    {
+        "id": 876,
+        "name": "強壁珠【２】",
+        "slot": 2,
+        "skills": [
+            {
+                "href": "/cht/skill/Guard%20Up",
+                "level": 1
+            }
+        ]
+    },
+    {
+        "id": 877,
+        "name": "剛刃珠【２】",
+        "slot": 2,
+        "skills": [
+            {
+                "href": "/cht/skill/Protective%20Polish",
+                "level": 1
+            }
+        ]
+    },
+    {
+        "id": 878,
+        "name": "無撃珠【２】",
+        "slot": 2,
+        "skills": [
+            {
+                "href": "/cht/skill/Non-elemental%20Boost",
+                "level": 1
+            }
+        ]
+    },
+    {
+        "id": 825,
+        "name": "耐瘴珠【１】",
+        "slot": 1,
+        "skills": [
+            {
+                "href": "/cht/skill/Effluvia%20Resistance",
+                "level": 1
+            }
+        ]
+    },
+    {
+        "id": 1968,
+        "name": "轉福珠【３】",
+        "slot": 3,
+        "skills": [
+            {
+                "href": "/cht/skill/Coalescence",
+                "level": 1
+            }
+        ]
+    },
+    {
+        "id": 1969,
+        "name": "守勢珠【２】",
+        "slot": 2,
+        "skills": [
+            {
+                "href": "/cht/skill/Offensive%20Guard",
+                "level": 1
+            }
+        ]
+    },
+    {
+        "id": 1970,
+        "name": "耐暑珠【２】",
+        "slot": 2,
+        "skills": [
+            {
+                "href": "/cht/skill/Heat%20Guard",
+                "level": 1
+            }
+        ]
+    },
+    {
+        "id": 1971,
+        "name": "耐火珠Ⅱ【４】",
+        "slot": 4,
+        "skills": [
+            {
+                "href": "/cht/skill/Fire%20Resistance",
+                "level": 2
+            }
+        ]
+    },
+    {
+        "id": 1972,
+        "name": "耐水珠Ⅱ【４】",
+        "slot": 4,
+        "skills": [
+            {
+                "href": "/cht/skill/Water%20Resistance",
+                "level": 2
+            }
+        ]
+    },
+    {
+        "id": 1973,
+        "name": "耐冰珠Ⅱ【４】",
+        "slot": 4,
+        "skills": [
+            {
+                "href": "/cht/skill/Ice%20Resistance",
+                "level": 2
+            }
+        ]
+    },
+    {
+        "id": 1974,
+        "name": "耐雷珠Ⅱ【４】",
+        "slot": 4,
+        "skills": [
+            {
+                "href": "/cht/skill/Thunder%20Resistance",
+                "level": 2
+            }
+        ]
+    },
+    {
+        "id": 1975,
+        "name": "耐龍珠Ⅱ【４】",
+        "slot": 4,
+        "skills": [
+            {
+                "href": "/cht/skill/Dragon%20Resistance",
+                "level": 2
+            }
+        ]
+    },
+    {
+        "id": 1976,
+        "name": "火炎珠Ⅱ【４】",
+        "slot": 4,
+        "skills": [
+            {
+                "href": "/cht/skill/Fire%20Attack",
+                "level": 2
+            }
+        ]
+    },
+    {
+        "id": 1977,
+        "name": "流水珠Ⅱ【４】",
+        "slot": 4,
+        "skills": [
+            {
+                "href": "/cht/skill/Water%20Attack",
+                "level": 2
+            }
+        ]
+    },
+    {
+        "id": 1978,
+        "name": "冰結珠Ⅱ【４】",
+        "slot": 4,
+        "skills": [
+            {
+                "href": "/cht/skill/Ice%20Attack",
+                "level": 2
+            }
+        ]
+    },
+    {
+        "id": 1979,
+        "name": "雷光珠Ⅱ【４】",
+        "slot": 4,
+        "skills": [
+            {
+                "href": "/cht/skill/Thunder%20Attack",
+                "level": 2
+            }
+        ]
+    },
+    {
+        "id": 1980,
+        "name": "破龍珠Ⅱ【４】",
+        "slot": 4,
+        "skills": [
+            {
+                "href": "/cht/skill/Dragon%20Attack",
+                "level": 2
+            }
+        ]
+    },
+    {
+        "id": 1981,
+        "name": "毒珠Ⅱ【４】",
+        "slot": 4,
+        "skills": [
+            {
+                "href": "/cht/skill/Poison%20Attack",
+                "level": 2
+            }
+        ]
+    },
+    {
+        "id": 1982,
+        "name": "麻痺珠Ⅱ【４】",
+        "slot": 4,
+        "skills": [
+            {
+                "href": "/cht/skill/Paralysis%20Attack",
+                "level": 2
+            }
+        ]
+    },
+    {
+        "id": 1983,
+        "name": "睡眠珠Ⅱ【４】",
+        "slot": 4,
+        "skills": [
+            {
+                "href": "/cht/skill/Sleep%20Attack",
+                "level": 2
+            }
+        ]
+    },
+    {
+        "id": 1984,
+        "name": "爆破珠Ⅱ【４】",
+        "slot": 4,
+        "skills": [
+            {
+                "href": "/cht/skill/Blast%20Attack",
+                "level": 2
+            }
+        ]
+    },
+    {
+        "id": 1985,
+        "name": "耐火珠Ⅲ【４】",
+        "slot": 4,
+        "skills": [
+            {
+                "href": "/cht/skill/Fire%20Resistance",
+                "level": 3
+            }
+        ]
+    },
+    {
+        "id": 1986,
+        "name": "耐水珠Ⅲ【４】",
+        "slot": 4,
+        "skills": [
+            {
+                "href": "/cht/skill/Water%20Resistance",
+                "level": 3
+            }
+        ]
+    },
+    {
+        "id": 1987,
+        "name": "耐冰珠Ⅲ【４】",
+        "slot": 4,
+        "skills": [
+            {
+                "href": "/cht/skill/Ice%20Resistance",
+                "level": 3
+            }
+        ]
+    },
+    {
+        "id": 1988,
+        "name": "耐雷珠Ⅲ【４】",
+        "slot": 4,
+        "skills": [
+            {
+                "href": "/cht/skill/Thunder%20Resistance",
+                "level": 3
+            }
+        ]
+    },
+    {
+        "id": 1989,
+        "name": "耐龍珠Ⅲ【４】",
+        "slot": 4,
+        "skills": [
+            {
+                "href": "/cht/skill/Dragon%20Resistance",
+                "level": 3
+            }
+        ]
+    },
+    {
+        "id": 1990,
+        "name": "耐毒珠Ⅱ【４】",
+        "slot": 4,
+        "skills": [
+            {
+                "href": "/cht/skill/Poison%20Resistance",
+                "level": 2
+            }
+        ]
+    },
+    {
+        "id": 1991,
+        "name": "耐麻珠Ⅱ【４】",
+        "slot": 4,
+        "skills": [
+            {
+                "href": "/cht/skill/Paralysis%20Resistance",
+                "level": 2
+            }
+        ]
+    },
+    {
+        "id": 1992,
+        "name": "耐眠珠Ⅱ【４】",
+        "slot": 4,
+        "skills": [
+            {
+                "href": "/cht/skill/Sleep%20Resistance",
+                "level": 2
+            }
+        ]
+    },
+    {
+        "id": 1993,
+        "name": "耐絕珠Ⅱ【４】",
+        "slot": 4,
+        "skills": [
+            {
+                "href": "/cht/skill/Stun%20Resistance",
+                "level": 2
+            }
+        ]
+    },
+    {
+        "id": 1994,
+        "name": "耐爆珠Ⅱ【４】",
+        "slot": 4,
+        "skills": [
+            {
+                "href": "/cht/skill/Blast%20Resistance",
+                "level": 2
+            }
+        ]
+    },
+    {
+        "id": 1995,
+        "name": "耐裂珠Ⅱ【４】",
+        "slot": 4,
+        "skills": [
+            {
+                "href": "/cht/skill/Bleeding%20Resistance",
+                "level": 2
+            }
+        ]
+    },
+    {
+        "id": 1996,
+        "name": "耐防珠Ⅱ【４】",
+        "slot": 4,
+        "skills": [
+            {
+                "href": "/cht/skill/Iron%20Skin",
+                "level": 2
+            }
+        ]
+    },
+    {
+        "id": 1997,
+        "name": "耐瘴珠Ⅱ【４】",
+        "slot": 4,
+        "skills": [
+            {
+                "href": "/cht/skill/Effluvia%20Resistance",
+                "level": 2
+            }
+        ]
+    },
+    {
+        "id": 1998,
+        "name": "無食珠Ⅱ【４】",
+        "slot": 4,
+        "skills": [
+            {
+                "href": "/cht/skill/Hunger%20Resistance",
+                "level": 2
+            }
+        ]
+    },
+    {
+        "id": 1999,
+        "name": "早復珠Ⅱ【４】",
+        "slot": 4,
+        "skills": [
+            {
+                "href": "/cht/skill/Recovery%20Speed",
+                "level": 2
+            }
+        ]
+    },
+    {
+        "id": 2000,
+        "name": "潛伏珠Ⅱ【４】",
+        "slot": 4,
+        "skills": [
+            {
+                "href": "/cht/skill/Stealth",
+                "level": 2
+            }
+        ]
+    },
+    {
+        "id": 2001,
+        "name": "威嚇珠Ⅱ【４】",
+        "slot": 4,
+        "skills": [
+            {
+                "href": "/cht/skill/Intimidator",
+                "level": 2
+            }
+        ]
+    },
+    {
+        "id": 2002,
+        "name": "指示珠Ⅱ【４】",
+        "slot": 4,
+        "skills": [
+            {
+                "href": "/cht/skill/Palico%20Rally",
+                "level": 2
+            }
+        ]
+    },
+    {
+        "id": 2003,
+        "name": "潛伏珠Ⅲ【４】",
+        "slot": 4,
+        "skills": [
+            {
+                "href": "/cht/skill/Stealth",
+                "level": 3
+            }
+        ]
+    },
+    {
+        "id": 2004,
+        "name": "威嚇珠Ⅲ【４】",
+        "slot": 4,
+        "skills": [
+            {
+                "href": "/cht/skill/Intimidator",
+                "level": 3
+            }
+        ]
+    },
+    {
+        "id": 2005,
+        "name": "指示珠Ⅲ【４】",
+        "slot": 4,
+        "skills": [
+            {
+                "href": "/cht/skill/Palico%20Rally",
+                "level": 3
+            }
+        ]
+    },
+    {
+        "id": 2006,
+        "name": "特射珠Ⅱ【４】",
+        "slot": 4,
+        "skills": [
+            {
+                "href": "/cht/skill/Special%20Ammo%20Boost",
+                "level": 2
+            }
+        ]
+    },
+    {
+        "id": 2007,
+        "name": "砲手珠Ⅱ【４】",
+        "slot": 4,
+        "skills": [
+            {
+                "href": "/cht/skill/Heavy%20Artillery",
+                "level": 2
+            }
+        ]
+    },
+    {
+        "id": 2008,
+        "name": "植學珠Ⅱ【４】",
+        "slot": 4,
+        "skills": [
+            {
+                "href": "/cht/skill/Botanist",
+                "level": 2
+            }
+        ]
+    },
+    {
+        "id": 2009,
+        "name": "地學珠Ⅱ【４】",
+        "slot": 4,
+        "skills": [
+            {
+                "href": "/cht/skill/Geologist",
+                "level": 2
+            }
+        ]
+    },
+    {
+        "id": 2010,
+        "name": "環境珠Ⅱ【４】",
+        "slot": 4,
+        "skills": [
+            {
+                "href": "/cht/skill/Survival%20Expert",
+                "level": 2
+            }
+        ]
+    },
+    {
+        "id": 2011,
+        "name": "沼渡珠Ⅱ【４】",
+        "slot": 4,
+        "skills": [
+            {
+                "href": "/cht/skill/Aquatic%26Polar%20Mobility",
+                "level": 2
+            }
+        ]
+    },
+    {
+        "id": 2012,
+        "name": "標本珠Ⅱ【４】",
+        "slot": 4,
+        "skills": [
+            {
+                "href": "/cht/skill/Entomologist",
+                "level": 2
+            }
+        ]
+    },
+    {
+        "id": 2013,
+        "name": "鼓笛珠Ⅱ【４】",
+        "slot": 4,
+        "skills": [
+            {
+                "href": "/cht/skill/Horn%20Maestro",
+                "level": 2
+            }
+        ]
+    },
+    {
+        "id": 2014,
+        "name": "植學珠Ⅳ【４】",
+        "slot": 4,
+        "skills": [
+            {
+                "href": "/cht/skill/Botanist",
+                "level": 4
+            }
+        ]
+    },
+    {
+        "id": 2015,
+        "name": "地學珠Ⅲ【４】",
+        "slot": 4,
+        "skills": [
+            {
+                "href": "/cht/skill/Geologist",
+                "level": 3
+            }
+        ]
+    },
+    {
+        "id": 2016,
+        "name": "環境珠Ⅲ【４】",
+        "slot": 4,
+        "skills": [
+            {
+                "href": "/cht/skill/Survival%20Expert",
+                "level": 3
+            }
+        ]
+    },
+    {
+        "id": 2017,
+        "name": "標本珠Ⅲ【４】",
+        "slot": 4,
+        "skills": [
+            {
+                "href": "/cht/skill/Entomologist",
+                "level": 3
+            }
+        ]
+    },
+    {
+        "id": 2018,
+        "name": "持續珠Ⅱ【４】",
+        "slot": 4,
+        "skills": [
+            {
+                "href": "/cht/skill/Item%20Prolonger",
+                "level": 2
+            }
+        ]
+    },
+    {
+        "id": 2019,
+        "name": "防禦珠Ⅱ【４】",
+        "slot": 4,
+        "skills": [
+            {
+                "href": "/cht/skill/Defense%20Boost",
+                "level": 2
+            }
+        ]
+    },
+    {
+        "id": 2020,
+        "name": "持續珠Ⅲ【４】",
+        "slot": 4,
+        "skills": [
+            {
+                "href": "/cht/skill/Item%20Prolonger",
+                "level": 3
+            }
+        ]
+    },
+    {
+        "id": 2021,
+        "name": "防禦珠Ⅲ【４】",
+        "slot": 4,
+        "skills": [
+            {
+                "href": "/cht/skill/Defense%20Boost",
+                "level": 3
+            }
+        ]
+    },
+    {
+        "id": 2022,
+        "name": "砲術珠Ⅱ【４】",
+        "slot": 4,
+        "skills": [
+            {
+                "href": "/cht/skill/Artillery",
+                "level": 2
+            }
+        ]
+    },
+    {
+        "id": 2023,
+        "name": "防音珠Ⅱ【４】",
+        "slot": 4,
+        "skills": [
+            {
+                "href": "/cht/skill/Earplugs",
+                "level": 2
+            }
+        ]
+    },
+    {
+        "id": 2024,
+        "name": "防風珠Ⅱ【４】",
+        "slot": 4,
+        "skills": [
+            {
+                "href": "/cht/skill/Windproof",
+                "level": 2
+            }
+        ]
+    },
+    {
+        "id": 2025,
+        "name": "攻撃珠Ⅱ【４】",
+        "slot": 4,
+        "skills": [
+            {
+                "href": "/cht/skill/Attack%20Boost",
+                "level": 2
+            }
+        ]
+    },
+    {
+        "id": 2026,
+        "name": "達人珠Ⅱ【４】",
+        "slot": 4,
+        "skills": [
+            {
+                "href": "/cht/skill/Critical%20Eye",
+                "level": 2
+            }
+        ]
+    },
+    {
+        "id": 2027,
+        "name": "匠珠Ⅱ【４】",
+        "slot": 4,
+        "skills": [
+            {
+                "href": "/cht/skill/Handicraft",
+                "level": 2
+            }
+        ]
+    },
+    {
+        "id": 2028,
+        "name": "全開珠Ⅱ【４】",
+        "slot": 4,
+        "skills": [
+            {
+                "href": "/cht/skill/Latent%20Power",
+                "level": 2
+            }
+        ]
+    },
+    {
+        "id": 2029,
+        "name": "挑戰珠Ⅱ【４】",
+        "slot": 4,
+        "skills": [
+            {
+                "href": "/cht/skill/Agitator",
+                "level": 2
+            }
+        ]
+    },
+    {
+        "id": 2030,
+        "name": "底力珠Ⅱ【４】",
+        "slot": 4,
+        "skills": [
+            {
+                "href": "/cht/skill/Heroics",
+                "level": 2
+            }
+        ]
+    },
+    {
+        "id": 2031,
+        "name": "逆上珠Ⅱ【４】",
+        "slot": 4,
+        "skills": [
+            {
+                "href": "/cht/skill/Resentment",
+                "level": 2
+            }
+        ]
+    },
+    {
+        "id": 2032,
+        "name": "體術珠Ⅱ【４】",
+        "slot": 4,
+        "skills": [
+            {
+                "href": "/cht/skill/Constitution",
+                "level": 2
+            }
+        ]
+    },
+    {
+        "id": 2033,
+        "name": "回避珠Ⅱ【４】",
+        "slot": 4,
+        "skills": [
+            {
+                "href": "/cht/skill/Evade%20Window",
+                "level": 2
+            }
+        ]
+    },
+    {
+        "id": 2034,
+        "name": "鐵壁珠Ⅱ【４】",
+        "slot": 4,
+        "skills": [
+            {
+                "href": "/cht/skill/Guard",
+                "level": 2
+            }
+        ]
+    },
+    {
+        "id": 2035,
+        "name": "友愛珠Ⅱ【４】",
+        "slot": 4,
+        "skills": [
+            {
+                "href": "/cht/skill/Wide-Range",
+                "level": 2
+            }
+        ]
+    },
+    {
+        "id": 2036,
+        "name": "奪氣・體術珠【４】",
+        "slot": 4,
+        "skills": [
+            {
+                "href": "/cht/skill/Stamina%20Thief",
+                "level": 1
+            },
+            {
+                "href": "/cht/skill/Constitution",
+                "level": 1
+            }
+        ]
+    },
+    {
+        "id": 2037,
+        "name": "逆境・體術珠【４】",
+        "slot": 4,
+        "skills": [
+            {
+                "href": "/cht/skill/Fortify",
+                "level": 1
+            },
+            {
+                "href": "/cht/skill/Constitution",
+                "level": 1
+            }
+        ]
+    },
+    {
+        "id": 2038,
+        "name": "絕路・體術珠【４】",
+        "slot": 4,
+        "skills": [
+            {
+                "href": "/cht/skill/Resuscitate",
+                "level": 1
+            },
+            {
+                "href": "/cht/skill/Constitution",
+                "level": 1
+            }
+        ]
+    },
+    {
+        "id": 2039,
+        "name": "鐵壁・體術珠【４】",
+        "slot": 4,
+        "skills": [
+            {
+                "href": "/cht/skill/Guard",
+                "level": 1
+            },
+            {
+                "href": "/cht/skill/Constitution",
+                "level": 1
+            }
+        ]
+    },
+    {
+        "id": 2040,
+        "name": "友愛・體術珠【４】",
+        "slot": 4,
+        "skills": [
+            {
+                "href": "/cht/skill/Wide-Range",
+                "level": 1
+            },
+            {
+                "href": "/cht/skill/Constitution",
+                "level": 1
+            }
+        ]
+    },
+    {
+        "id": 2041,
+        "name": "節食・體術珠【４】",
+        "slot": 4,
+        "skills": [
+            {
+                "href": "/cht/skill/Free%20Meal",
+                "level": 1
+            },
+            {
+                "href": "/cht/skill/Constitution",
+                "level": 1
+            }
+        ]
+    },
+    {
+        "id": 2042,
+        "name": "投石・體術珠【４】",
+        "slot": 4,
+        "skills": [
+            {
+                "href": "/cht/skill/Slinger%20Capacity",
+                "level": 1
+            },
+            {
+                "href": "/cht/skill/Constitution",
+                "level": 1
+            }
+        ]
+    },
+    {
+        "id": 2043,
+        "name": "耐屬・體術珠【４】",
+        "slot": 4,
+        "skills": [
+            {
+                "href": "/cht/skill/Blight%20Resistance",
+                "level": 1
+            },
+            {
+                "href": "/cht/skill/Constitution",
+                "level": 1
+            }
+        ]
+    },
+    {
+        "id": 2044,
+        "name": "飛燕・體術珠【４】",
+        "slot": 4,
+        "skills": [
+            {
+                "href": "/cht/skill/Airborne",
+                "level": 1
+            },
+            {
+                "href": "/cht/skill/Constitution",
+                "level": 1
+            }
+        ]
+    },
+    {
+        "id": 2045,
+        "name": "強走・體術珠【４】",
+        "slot": 4,
+        "skills": [
+            {
+                "href": "/cht/skill/Marathon%20Runner",
+                "level": 1
+            },
+            {
+                "href": "/cht/skill/Constitution",
+                "level": 1
+            }
+        ]
+    },
+    {
+        "id": 2046,
+        "name": "早氣・體術珠【４】",
+        "slot": 4,
+        "skills": [
+            {
+                "href": "/cht/skill/Stamina%20Surge",
+                "level": 1
+            },
+            {
+                "href": "/cht/skill/Constitution",
+                "level": 1
+            }
+        ]
+    },
+    {
+        "id": 2047,
+        "name": "跳躍・體術珠【４】",
+        "slot": 4,
+        "skills": [
+            {
+                "href": "/cht/skill/Evade%20Extender",
+                "level": 1
+            },
+            {
+                "href": "/cht/skill/Constitution",
+                "level": 1
+            }
+        ]
+    },
+    {
+        "id": 2048,
+        "name": "速納・體術珠【４】",
+        "slot": 4,
+        "skills": [
+            {
+                "href": "/cht/skill/Quick%20Sheath",
+                "level": 1
+            },
+            {
+                "href": "/cht/skill/Constitution",
+                "level": 1
+            }
+        ]
+    },
+    {
+        "id": 2049,
+        "name": "快吃・體術珠【４】",
+        "slot": 4,
+        "skills": [
+            {
+                "href": "/cht/skill/Speed%20Eating",
+                "level": 1
+            },
+            {
+                "href": "/cht/skill/Constitution",
+                "level": 1
+            }
+        ]
+    },
+    {
+        "id": 2050,
+        "name": "研磨・體術珠【４】",
+        "slot": 4,
+        "skills": [
+            {
+                "href": "/cht/skill/Speed%20Sharpening",
+                "level": 1
+            },
+            {
+                "href": "/cht/skill/Constitution",
+                "level": 1
+            }
+        ]
+    },
+    {
+        "id": 2051,
+        "name": "爆師・體術珠【４】",
+        "slot": 4,
+        "skills": [
+            {
+                "href": "/cht/skill/Bombardier",
+                "level": 1
+            },
+            {
+                "href": "/cht/skill/Constitution",
+                "level": 1
+            }
+        ]
+    },
+    {
+        "id": 2052,
+        "name": "茸好・體術珠【４】",
+        "slot": 4,
+        "skills": [
+            {
+                "href": "/cht/skill/Mushroomancer",
+                "level": 1
+            },
+            {
+                "href": "/cht/skill/Constitution",
+                "level": 1
+            }
+        ]
+    },
+    {
+        "id": 2053,
+        "name": "滑走・體術珠【４】",
+        "slot": 4,
+        "skills": [
+            {
+                "href": "/cht/skill/Affinity%20Sliding",
+                "level": 1
+            },
+            {
+                "href": "/cht/skill/Constitution",
+                "level": 1
+            }
+        ]
+    },
+    {
+        "id": 2054,
+        "name": "守勢・體術珠【４】",
+        "slot": 4,
+        "skills": [
+            {
+                "href": "/cht/skill/Offensive%20Guard",
+                "level": 1
+            },
+            {
+                "href": "/cht/skill/Constitution",
+                "level": 1
+            }
+        ]
+    },
+    {
+        "id": 2055,
+        "name": "奪氣・回避珠【４】",
+        "slot": 4,
+        "skills": [
+            {
+                "href": "/cht/skill/Stamina%20Thief",
+                "level": 1
+            },
+            {
+                "href": "/cht/skill/Evade%20Window",
+                "level": 1
+            }
+        ]
+    },
+    {
+        "id": 2056,
+        "name": "逆境・回避珠【４】",
+        "slot": 4,
+        "skills": [
+            {
+                "href": "/cht/skill/Fortify",
+                "level": 1
+            },
+            {
+                "href": "/cht/skill/Evade%20Window",
+                "level": 1
+            }
+        ]
+    },
+    {
+        "id": 2057,
+        "name": "絕路・回避珠【４】",
+        "slot": 4,
+        "skills": [
+            {
+                "href": "/cht/skill/Resuscitate",
+                "level": 1
+            },
+            {
+                "href": "/cht/skill/Evade%20Window",
+                "level": 1
+            }
+        ]
+    },
+    {
+        "id": 2058,
+        "name": "鐵壁・回避珠【４】",
+        "slot": 4,
+        "skills": [
+            {
+                "href": "/cht/skill/Guard",
+                "level": 1
+            },
+            {
+                "href": "/cht/skill/Evade%20Window",
+                "level": 1
+            }
+        ]
+    },
+    {
+        "id": 2059,
+        "name": "友愛・回避珠【４】",
+        "slot": 4,
+        "skills": [
+            {
+                "href": "/cht/skill/Wide-Range",
+                "level": 1
+            },
+            {
+                "href": "/cht/skill/Evade%20Window",
+                "level": 1
+            }
+        ]
+    },
+    {
+        "id": 2060,
+        "name": "節食・回避珠【４】",
+        "slot": 4,
+        "skills": [
+            {
+                "href": "/cht/skill/Free%20Meal",
+                "level": 1
+            },
+            {
+                "href": "/cht/skill/Evade%20Window",
+                "level": 1
+            }
+        ]
+    },
+    {
+        "id": 2061,
+        "name": "投石・回避珠【４】",
+        "slot": 4,
+        "skills": [
+            {
+                "href": "/cht/skill/Slinger%20Capacity",
+                "level": 1
+            },
+            {
+                "href": "/cht/skill/Evade%20Window",
+                "level": 1
+            }
+        ]
+    },
+    {
+        "id": 2062,
+        "name": "耐屬・回避珠【４】",
+        "slot": 4,
+        "skills": [
+            {
+                "href": "/cht/skill/Blight%20Resistance",
+                "level": 1
+            },
+            {
+                "href": "/cht/skill/Evade%20Window",
+                "level": 1
+            }
+        ]
+    },
+    {
+        "id": 2063,
+        "name": "飛燕・回避珠【４】",
+        "slot": 4,
+        "skills": [
+            {
+                "href": "/cht/skill/Airborne",
+                "level": 1
+            },
+            {
+                "href": "/cht/skill/Evade%20Window",
+                "level": 1
+            }
+        ]
+    },
+    {
+        "id": 2064,
+        "name": "強走・回避珠【４】",
+        "slot": 4,
+        "skills": [
+            {
+                "href": "/cht/skill/Marathon%20Runner",
+                "level": 1
+            },
+            {
+                "href": "/cht/skill/Evade%20Window",
+                "level": 1
+            }
+        ]
+    },
+    {
+        "id": 2065,
+        "name": "早氣・回避珠【４】",
+        "slot": 4,
+        "skills": [
+            {
+                "href": "/cht/skill/Stamina%20Surge",
+                "level": 1
+            },
+            {
+                "href": "/cht/skill/Evade%20Window",
+                "level": 1
+            }
+        ]
+    },
+    {
+        "id": 2066,
+        "name": "跳躍・回避珠【４】",
+        "slot": 4,
+        "skills": [
+            {
+                "href": "/cht/skill/Evade%20Extender",
+                "level": 1
+            },
+            {
+                "href": "/cht/skill/Evade%20Window",
+                "level": 1
+            }
+        ]
+    },
+    {
+        "id": 2067,
+        "name": "速納・回避珠【４】",
+        "slot": 4,
+        "skills": [
+            {
+                "href": "/cht/skill/Quick%20Sheath",
+                "level": 1
+            },
+            {
+                "href": "/cht/skill/Evade%20Window",
+                "level": 1
+            }
+        ]
+    },
+    {
+        "id": 2068,
+        "name": "快吃・回避珠【４】",
+        "slot": 4,
+        "skills": [
+            {
+                "href": "/cht/skill/Speed%20Eating",
+                "level": 1
+            },
+            {
+                "href": "/cht/skill/Evade%20Window",
+                "level": 1
+            }
+        ]
+    },
+    {
+        "id": 2069,
+        "name": "研磨・回避珠【４】",
+        "slot": 4,
+        "skills": [
+            {
+                "href": "/cht/skill/Speed%20Sharpening",
+                "level": 1
+            },
+            {
+                "href": "/cht/skill/Evade%20Window",
+                "level": 1
+            }
+        ]
+    },
+    {
+        "id": 2070,
+        "name": "爆師・回避珠【４】",
+        "slot": 4,
+        "skills": [
+            {
+                "href": "/cht/skill/Bombardier",
+                "level": 1
+            },
+            {
+                "href": "/cht/skill/Evade%20Window",
+                "level": 1
+            }
+        ]
+    },
+    {
+        "id": 2071,
+        "name": "茸好・回避珠【４】",
+        "slot": 4,
+        "skills": [
+            {
+                "href": "/cht/skill/Mushroomancer",
+                "level": 1
+            },
+            {
+                "href": "/cht/skill/Evade%20Window",
+                "level": 1
+            }
+        ]
+    },
+    {
+        "id": 2072,
+        "name": "滑走・回避珠【４】",
+        "slot": 4,
+        "skills": [
+            {
+                "href": "/cht/skill/Affinity%20Sliding",
+                "level": 1
+            },
+            {
+                "href": "/cht/skill/Evade%20Window",
+                "level": 1
+            }
+        ]
+    },
+    {
+        "id": 2073,
+        "name": "守勢・回避珠【４】",
+        "slot": 4,
+        "skills": [
+            {
+                "href": "/cht/skill/Offensive%20Guard",
+                "level": 1
+            },
+            {
+                "href": "/cht/skill/Evade%20Window",
+                "level": 1
+            }
+        ]
+    },
+    {
+        "id": 2074,
+        "name": "奪氣・攻撃珠【４】",
+        "slot": 4,
+        "skills": [
+            {
+                "href": "/cht/skill/Stamina%20Thief",
+                "level": 1
+            },
+            {
+                "href": "/cht/skill/Attack%20Boost",
+                "level": 1
+            }
+        ]
+    },
+    {
+        "id": 2075,
+        "name": "逆境・攻撃珠【４】",
+        "slot": 4,
+        "skills": [
+            {
+                "href": "/cht/skill/Fortify",
+                "level": 1
+            },
+            {
+                "href": "/cht/skill/Attack%20Boost",
+                "level": 1
+            }
+        ]
+    },
+    {
+        "id": 2076,
+        "name": "絕路・攻撃珠【４】",
+        "slot": 4,
+        "skills": [
+            {
+                "href": "/cht/skill/Resuscitate",
+                "level": 1
+            },
+            {
+                "href": "/cht/skill/Attack%20Boost",
+                "level": 1
+            }
+        ]
+    },
+    {
+        "id": 2077,
+        "name": "鐵壁・攻撃珠【４】",
+        "slot": 4,
+        "skills": [
+            {
+                "href": "/cht/skill/Guard",
+                "level": 1
+            },
+            {
+                "href": "/cht/skill/Attack%20Boost",
+                "level": 1
+            }
+        ]
+    },
+    {
+        "id": 2078,
+        "name": "友愛・攻撃珠【４】",
+        "slot": 4,
+        "skills": [
+            {
+                "href": "/cht/skill/Wide-Range",
+                "level": 1
+            },
+            {
+                "href": "/cht/skill/Attack%20Boost",
+                "level": 1
+            }
+        ]
+    },
+    {
+        "id": 2079,
+        "name": "節食・攻撃珠【４】",
+        "slot": 4,
+        "skills": [
+            {
+                "href": "/cht/skill/Free%20Meal",
+                "level": 1
+            },
+            {
+                "href": "/cht/skill/Attack%20Boost",
+                "level": 1
+            }
+        ]
+    },
+    {
+        "id": 2080,
+        "name": "投石・攻撃珠【４】",
+        "slot": 4,
+        "skills": [
+            {
+                "href": "/cht/skill/Slinger%20Capacity",
+                "level": 1
+            },
+            {
+                "href": "/cht/skill/Attack%20Boost",
+                "level": 1
+            }
+        ]
+    },
+    {
+        "id": 2081,
+        "name": "耐屬・攻撃珠【４】",
+        "slot": 4,
+        "skills": [
+            {
+                "href": "/cht/skill/Blight%20Resistance",
+                "level": 1
+            },
+            {
+                "href": "/cht/skill/Attack%20Boost",
+                "level": 1
+            }
+        ]
+    },
+    {
+        "id": 2082,
+        "name": "飛燕・攻撃珠【４】",
+        "slot": 4,
+        "skills": [
+            {
+                "href": "/cht/skill/Airborne",
+                "level": 1
+            },
+            {
+                "href": "/cht/skill/Attack%20Boost",
+                "level": 1
+            }
+        ]
+    },
+    {
+        "id": 2083,
+        "name": "強走・攻撃珠【４】",
+        "slot": 4,
+        "skills": [
+            {
+                "href": "/cht/skill/Marathon%20Runner",
+                "level": 1
+            },
+            {
+                "href": "/cht/skill/Attack%20Boost",
+                "level": 1
+            }
+        ]
+    },
+    {
+        "id": 2084,
+        "name": "早氣・攻撃珠【４】",
+        "slot": 4,
+        "skills": [
+            {
+                "href": "/cht/skill/Stamina%20Surge",
+                "level": 1
+            },
+            {
+                "href": "/cht/skill/Attack%20Boost",
+                "level": 1
+            }
+        ]
+    },
+    {
+        "id": 2085,
+        "name": "跳躍・攻撃珠【４】",
+        "slot": 4,
+        "skills": [
+            {
+                "href": "/cht/skill/Evade%20Extender",
+                "level": 1
+            },
+            {
+                "href": "/cht/skill/Attack%20Boost",
+                "level": 1
+            }
+        ]
+    },
+    {
+        "id": 2086,
+        "name": "速納・攻撃珠【４】",
+        "slot": 4,
+        "skills": [
+            {
+                "href": "/cht/skill/Quick%20Sheath",
+                "level": 1
+            },
+            {
+                "href": "/cht/skill/Attack%20Boost",
+                "level": 1
+            }
+        ]
+    },
+    {
+        "id": 2087,
+        "name": "快吃・攻撃珠【４】",
+        "slot": 4,
+        "skills": [
+            {
+                "href": "/cht/skill/Speed%20Eating",
+                "level": 1
+            },
+            {
+                "href": "/cht/skill/Attack%20Boost",
+                "level": 1
+            }
+        ]
+    },
+    {
+        "id": 2088,
+        "name": "研磨・攻撃珠【４】",
+        "slot": 4,
+        "skills": [
+            {
+                "href": "/cht/skill/Speed%20Sharpening",
+                "level": 1
+            },
+            {
+                "href": "/cht/skill/Attack%20Boost",
+                "level": 1
+            }
+        ]
+    },
+    {
+        "id": 2089,
+        "name": "爆師・攻撃珠【４】",
+        "slot": 4,
+        "skills": [
+            {
+                "href": "/cht/skill/Bombardier",
+                "level": 1
+            },
+            {
+                "href": "/cht/skill/Attack%20Boost",
+                "level": 1
+            }
+        ]
+    },
+    {
+        "id": 2090,
+        "name": "茸好・攻撃珠【４】",
+        "slot": 4,
+        "skills": [
+            {
+                "href": "/cht/skill/Mushroomancer",
+                "level": 1
+            },
+            {
+                "href": "/cht/skill/Attack%20Boost",
+                "level": 1
+            }
+        ]
+    },
+    {
+        "id": 2091,
+        "name": "滑走・攻撃珠【４】",
+        "slot": 4,
+        "skills": [
+            {
+                "href": "/cht/skill/Affinity%20Sliding",
+                "level": 1
+            },
+            {
+                "href": "/cht/skill/Attack%20Boost",
+                "level": 1
+            }
+        ]
+    },
+    {
+        "id": 2092,
+        "name": "守勢・攻撃珠【４】",
+        "slot": 4,
+        "skills": [
+            {
+                "href": "/cht/skill/Offensive%20Guard",
+                "level": 1
+            },
+            {
+                "href": "/cht/skill/Attack%20Boost",
+                "level": 1
+            }
+        ]
+    },
+    {
+        "id": 2093,
+        "name": "奪氣・達人珠【４】",
+        "slot": 4,
+        "skills": [
+            {
+                "href": "/cht/skill/Stamina%20Thief",
+                "level": 1
+            },
+            {
+                "href": "/cht/skill/Critical%20Eye",
+                "level": 1
+            }
+        ]
+    },
+    {
+        "id": 2094,
+        "name": "逆境・達人珠【４】",
+        "slot": 4,
+        "skills": [
+            {
+                "href": "/cht/skill/Fortify",
+                "level": 1
+            },
+            {
+                "href": "/cht/skill/Critical%20Eye",
+                "level": 1
+            }
+        ]
+    },
+    {
+        "id": 2095,
+        "name": "絕路・達人珠【４】",
+        "slot": 4,
+        "skills": [
+            {
+                "href": "/cht/skill/Resuscitate",
+                "level": 1
+            },
+            {
+                "href": "/cht/skill/Critical%20Eye",
+                "level": 1
+            }
+        ]
+    },
+    {
+        "id": 2096,
+        "name": "鐵壁・達人珠【４】",
+        "slot": 4,
+        "skills": [
+            {
+                "href": "/cht/skill/Guard",
+                "level": 1
+            },
+            {
+                "href": "/cht/skill/Critical%20Eye",
+                "level": 1
+            }
+        ]
+    },
+    {
+        "id": 2097,
+        "name": "友愛・達人珠【４】",
+        "slot": 4,
+        "skills": [
+            {
+                "href": "/cht/skill/Wide-Range",
+                "level": 1
+            },
+            {
+                "href": "/cht/skill/Critical%20Eye",
+                "level": 1
+            }
+        ]
+    },
+    {
+        "id": 2098,
+        "name": "節食・達人珠【４】",
+        "slot": 4,
+        "skills": [
+            {
+                "href": "/cht/skill/Free%20Meal",
+                "level": 1
+            },
+            {
+                "href": "/cht/skill/Critical%20Eye",
+                "level": 1
+            }
+        ]
+    },
+    {
+        "id": 2099,
+        "name": "投石・達人珠【４】",
+        "slot": 4,
+        "skills": [
+            {
+                "href": "/cht/skill/Slinger%20Capacity",
+                "level": 1
+            },
+            {
+                "href": "/cht/skill/Critical%20Eye",
+                "level": 1
+            }
+        ]
+    },
+    {
+        "id": 2100,
+        "name": "耐屬・達人珠【４】",
+        "slot": 4,
+        "skills": [
+            {
+                "href": "/cht/skill/Blight%20Resistance",
+                "level": 1
+            },
+            {
+                "href": "/cht/skill/Critical%20Eye",
+                "level": 1
+            }
+        ]
+    },
+    {
+        "id": 2101,
+        "name": "飛燕・達人珠【４】",
+        "slot": 4,
+        "skills": [
+            {
+                "href": "/cht/skill/Airborne",
+                "level": 1
+            },
+            {
+                "href": "/cht/skill/Critical%20Eye",
+                "level": 1
+            }
+        ]
+    },
+    {
+        "id": 2102,
+        "name": "強走・達人珠【４】",
+        "slot": 4,
+        "skills": [
+            {
+                "href": "/cht/skill/Marathon%20Runner",
+                "level": 1
+            },
+            {
+                "href": "/cht/skill/Critical%20Eye",
+                "level": 1
+            }
+        ]
+    },
+    {
+        "id": 2103,
+        "name": "早氣・達人珠【４】",
+        "slot": 4,
+        "skills": [
+            {
+                "href": "/cht/skill/Stamina%20Surge",
+                "level": 1
+            },
+            {
+                "href": "/cht/skill/Critical%20Eye",
+                "level": 1
+            }
+        ]
+    },
+    {
+        "id": 2104,
+        "name": "跳躍・達人珠【４】",
+        "slot": 4,
+        "skills": [
+            {
+                "href": "/cht/skill/Evade%20Extender",
+                "level": 1
+            },
+            {
+                "href": "/cht/skill/Critical%20Eye",
+                "level": 1
+            }
+        ]
+    },
+    {
+        "id": 2105,
+        "name": "速納・達人珠【４】",
+        "slot": 4,
+        "skills": [
+            {
+                "href": "/cht/skill/Quick%20Sheath",
+                "level": 1
+            },
+            {
+                "href": "/cht/skill/Critical%20Eye",
+                "level": 1
+            }
+        ]
+    },
+    {
+        "id": 2106,
+        "name": "快吃・達人珠【４】",
+        "slot": 4,
+        "skills": [
+            {
+                "href": "/cht/skill/Speed%20Eating",
+                "level": 1
+            },
+            {
+                "href": "/cht/skill/Critical%20Eye",
+                "level": 1
+            }
+        ]
+    },
+    {
+        "id": 2107,
+        "name": "研磨・達人珠【４】",
+        "slot": 4,
+        "skills": [
+            {
+                "href": "/cht/skill/Speed%20Sharpening",
+                "level": 1
+            },
+            {
+                "href": "/cht/skill/Critical%20Eye",
+                "level": 1
+            }
+        ]
+    },
+    {
+        "id": 2108,
+        "name": "爆師・達人珠【４】",
+        "slot": 4,
+        "skills": [
+            {
+                "href": "/cht/skill/Bombardier",
+                "level": 1
+            },
+            {
+                "href": "/cht/skill/Critical%20Eye",
+                "level": 1
+            }
+        ]
+    },
+    {
+        "id": 2109,
+        "name": "茸好・達人珠【４】",
+        "slot": 4,
+        "skills": [
+            {
+                "href": "/cht/skill/Mushroomancer",
+                "level": 1
+            },
+            {
+                "href": "/cht/skill/Critical%20Eye",
+                "level": 1
+            }
+        ]
+    },
+    {
+        "id": 2110,
+        "name": "滑走・達人珠【４】",
+        "slot": 4,
+        "skills": [
+            {
+                "href": "/cht/skill/Affinity%20Sliding",
+                "level": 1
+            },
+            {
+                "href": "/cht/skill/Critical%20Eye",
+                "level": 1
+            }
+        ]
+    },
+    {
+        "id": 2111,
+        "name": "守勢・達人珠【４】",
+        "slot": 4,
+        "skills": [
+            {
+                "href": "/cht/skill/Offensive%20Guard",
+                "level": 1
+            },
+            {
+                "href": "/cht/skill/Critical%20Eye",
+                "level": 1
+            }
+        ]
+    },
+    {
+        "id": 2112,
+        "name": "奪氣・解放珠【４】",
+        "slot": 4,
+        "skills": [
+            {
+                "href": "/cht/skill/Stamina%20Thief",
+                "level": 1
+            },
+            {
+                "href": "/cht/skill/Free%20Elem%26Ammo%20Up",
+                "level": 1
+            }
+        ]
+    },
+    {
+        "id": 2113,
+        "name": "逆境・解放珠【４】",
+        "slot": 4,
+        "skills": [
+            {
+                "href": "/cht/skill/Fortify",
+                "level": 1
+            },
+            {
+                "href": "/cht/skill/Free%20Elem%26Ammo%20Up",
+                "level": 1
+            }
+        ]
+    },
+    {
+        "id": 2114,
+        "name": "絕路・解放珠【４】",
+        "slot": 4,
+        "skills": [
+            {
+                "href": "/cht/skill/Resuscitate",
+                "level": 1
+            },
+            {
+                "href": "/cht/skill/Free%20Elem%26Ammo%20Up",
+                "level": 1
+            }
+        ]
+    },
+    {
+        "id": 2115,
+        "name": "鐵壁・解放珠【４】",
+        "slot": 4,
+        "skills": [
+            {
+                "href": "/cht/skill/Guard",
+                "level": 1
+            },
+            {
+                "href": "/cht/skill/Free%20Elem%26Ammo%20Up",
+                "level": 1
+            }
+        ]
+    },
+    {
+        "id": 2116,
+        "name": "友愛・解放珠【４】",
+        "slot": 4,
+        "skills": [
+            {
+                "href": "/cht/skill/Wide-Range",
+                "level": 1
+            },
+            {
+                "href": "/cht/skill/Free%20Elem%26Ammo%20Up",
+                "level": 1
+            }
+        ]
+    },
+    {
+        "id": 2117,
+        "name": "節食・解放珠【４】",
+        "slot": 4,
+        "skills": [
+            {
+                "href": "/cht/skill/Free%20Meal",
+                "level": 1
+            },
+            {
+                "href": "/cht/skill/Free%20Elem%26Ammo%20Up",
+                "level": 1
+            }
+        ]
+    },
+    {
+        "id": 2118,
+        "name": "投石・解放珠【４】",
+        "slot": 4,
+        "skills": [
+            {
+                "href": "/cht/skill/Slinger%20Capacity",
+                "level": 1
+            },
+            {
+                "href": "/cht/skill/Free%20Elem%26Ammo%20Up",
+                "level": 1
+            }
+        ]
+    },
+    {
+        "id": 2119,
+        "name": "耐屬・解放珠【４】",
+        "slot": 4,
+        "skills": [
+            {
+                "href": "/cht/skill/Blight%20Resistance",
+                "level": 1
+            },
+            {
+                "href": "/cht/skill/Free%20Elem%26Ammo%20Up",
+                "level": 1
+            }
+        ]
+    },
+    {
+        "id": 2120,
+        "name": "飛燕・解放珠【４】",
+        "slot": 4,
+        "skills": [
+            {
+                "href": "/cht/skill/Airborne",
+                "level": 1
+            },
+            {
+                "href": "/cht/skill/Free%20Elem%26Ammo%20Up",
+                "level": 1
+            }
+        ]
+    },
+    {
+        "id": 2121,
+        "name": "強走・解放珠【４】",
+        "slot": 4,
+        "skills": [
+            {
+                "href": "/cht/skill/Marathon%20Runner",
+                "level": 1
+            },
+            {
+                "href": "/cht/skill/Free%20Elem%26Ammo%20Up",
+                "level": 1
+            }
+        ]
+    },
+    {
+        "id": 2122,
+        "name": "早氣・解放珠【４】",
+        "slot": 4,
+        "skills": [
+            {
+                "href": "/cht/skill/Stamina%20Surge",
+                "level": 1
+            },
+            {
+                "href": "/cht/skill/Free%20Elem%26Ammo%20Up",
+                "level": 1
+            }
+        ]
+    },
+    {
+        "id": 2123,
+        "name": "跳躍・解放珠【４】",
+        "slot": 4,
+        "skills": [
+            {
+                "href": "/cht/skill/Evade%20Extender",
+                "level": 1
+            },
+            {
+                "href": "/cht/skill/Free%20Elem%26Ammo%20Up",
+                "level": 1
+            }
+        ]
+    },
+    {
+        "id": 2124,
+        "name": "速納・解放珠【４】",
+        "slot": 4,
+        "skills": [
+            {
+                "href": "/cht/skill/Quick%20Sheath",
+                "level": 1
+            },
+            {
+                "href": "/cht/skill/Free%20Elem%26Ammo%20Up",
+                "level": 1
+            }
+        ]
+    },
+    {
+        "id": 2125,
+        "name": "快吃・解放珠【４】",
+        "slot": 4,
+        "skills": [
+            {
+                "href": "/cht/skill/Speed%20Eating",
+                "level": 1
+            },
+            {
+                "href": "/cht/skill/Free%20Elem%26Ammo%20Up",
+                "level": 1
+            }
+        ]
+    },
+    {
+        "id": 2126,
+        "name": "研磨・解放珠【４】",
+        "slot": 4,
+        "skills": [
+            {
+                "href": "/cht/skill/Speed%20Sharpening",
+                "level": 1
+            },
+            {
+                "href": "/cht/skill/Free%20Elem%26Ammo%20Up",
+                "level": 1
+            }
+        ]
+    },
+    {
+        "id": 2127,
+        "name": "爆師・解放珠【４】",
+        "slot": 4,
+        "skills": [
+            {
+                "href": "/cht/skill/Bombardier",
+                "level": 1
+            },
+            {
+                "href": "/cht/skill/Free%20Elem%26Ammo%20Up",
+                "level": 1
+            }
+        ]
+    },
+    {
+        "id": 2128,
+        "name": "茸好・解放珠【４】",
+        "slot": 4,
+        "skills": [
+            {
+                "href": "/cht/skill/Mushroomancer",
+                "level": 1
+            },
+            {
+                "href": "/cht/skill/Free%20Elem%26Ammo%20Up",
+                "level": 1
+            }
+        ]
+    },
+    {
+        "id": 2129,
+        "name": "滑走・解放珠【４】",
+        "slot": 4,
+        "skills": [
+            {
+                "href": "/cht/skill/Affinity%20Sliding",
+                "level": 1
+            },
+            {
+                "href": "/cht/skill/Free%20Elem%26Ammo%20Up",
+                "level": 1
+            }
+        ]
+    },
+    {
+        "id": 2130,
+        "name": "守勢・解放珠【４】",
+        "slot": 4,
+        "skills": [
+            {
+                "href": "/cht/skill/Offensive%20Guard",
+                "level": 1
+            },
+            {
+                "href": "/cht/skill/Free%20Elem%26Ammo%20Up",
+                "level": 1
+            }
+        ]
+    },
+    {
+        "id": 2131,
+        "name": "奪氣・匠珠【４】",
+        "slot": 4,
+        "skills": [
+            {
+                "href": "/cht/skill/Stamina%20Thief",
+                "level": 1
+            },
+            {
+                "href": "/cht/skill/Handicraft",
+                "level": 1
+            }
+        ]
+    },
+    {
+        "id": 2132,
+        "name": "逆境・匠珠【４】",
+        "slot": 4,
+        "skills": [
+            {
+                "href": "/cht/skill/Fortify",
+                "level": 1
+            },
+            {
+                "href": "/cht/skill/Handicraft",
+                "level": 1
+            }
+        ]
+    },
+    {
+        "id": 2133,
+        "name": "絕路・匠珠【４】",
+        "slot": 4,
+        "skills": [
+            {
+                "href": "/cht/skill/Resuscitate",
+                "level": 1
+            },
+            {
+                "href": "/cht/skill/Handicraft",
+                "level": 1
+            }
+        ]
+    },
+    {
+        "id": 2134,
+        "name": "鐵壁・匠珠【４】",
+        "slot": 4,
+        "skills": [
+            {
+                "href": "/cht/skill/Guard",
+                "level": 1
+            },
+            {
+                "href": "/cht/skill/Handicraft",
+                "level": 1
+            }
+        ]
+    },
+    {
+        "id": 2135,
+        "name": "友愛・匠珠【４】",
+        "slot": 4,
+        "skills": [
+            {
+                "href": "/cht/skill/Wide-Range",
+                "level": 1
+            },
+            {
+                "href": "/cht/skill/Handicraft",
+                "level": 1
+            }
+        ]
+    },
+    {
+        "id": 2136,
+        "name": "節食・匠珠【４】",
+        "slot": 4,
+        "skills": [
+            {
+                "href": "/cht/skill/Free%20Meal",
+                "level": 1
+            },
+            {
+                "href": "/cht/skill/Handicraft",
+                "level": 1
+            }
+        ]
+    },
+    {
+        "id": 2137,
+        "name": "投石・匠珠【４】",
+        "slot": 4,
+        "skills": [
+            {
+                "href": "/cht/skill/Slinger%20Capacity",
+                "level": 1
+            },
+            {
+                "href": "/cht/skill/Handicraft",
+                "level": 1
+            }
+        ]
+    },
+    {
+        "id": 2138,
+        "name": "耐屬・匠珠【４】",
+        "slot": 4,
+        "skills": [
+            {
+                "href": "/cht/skill/Blight%20Resistance",
+                "level": 1
+            },
+            {
+                "href": "/cht/skill/Handicraft",
+                "level": 1
+            }
+        ]
+    },
+    {
+        "id": 2139,
+        "name": "飛燕・匠珠【４】",
+        "slot": 4,
+        "skills": [
+            {
+                "href": "/cht/skill/Airborne",
+                "level": 1
+            },
+            {
+                "href": "/cht/skill/Handicraft",
+                "level": 1
+            }
+        ]
+    },
+    {
+        "id": 2140,
+        "name": "強走・匠珠【４】",
+        "slot": 4,
+        "skills": [
+            {
+                "href": "/cht/skill/Marathon%20Runner",
+                "level": 1
+            },
+            {
+                "href": "/cht/skill/Handicraft",
+                "level": 1
+            }
+        ]
+    },
+    {
+        "id": 2141,
+        "name": "早氣・匠珠【４】",
+        "slot": 4,
+        "skills": [
+            {
+                "href": "/cht/skill/Stamina%20Surge",
+                "level": 1
+            },
+            {
+                "href": "/cht/skill/Handicraft",
+                "level": 1
+            }
+        ]
+    },
+    {
+        "id": 2142,
+        "name": "跳躍・匠珠【４】",
+        "slot": 4,
+        "skills": [
+            {
+                "href": "/cht/skill/Evade%20Extender",
+                "level": 1
+            },
+            {
+                "href": "/cht/skill/Handicraft",
+                "level": 1
+            }
+        ]
+    },
+    {
+        "id": 2143,
+        "name": "速納・匠珠【４】",
+        "slot": 4,
+        "skills": [
+            {
+                "href": "/cht/skill/Quick%20Sheath",
+                "level": 1
+            },
+            {
+                "href": "/cht/skill/Handicraft",
+                "level": 1
+            }
+        ]
+    },
+    {
+        "id": 2144,
+        "name": "快吃・匠珠【４】",
+        "slot": 4,
+        "skills": [
+            {
+                "href": "/cht/skill/Speed%20Eating",
+                "level": 1
+            },
+            {
+                "href": "/cht/skill/Handicraft",
+                "level": 1
+            }
+        ]
+    },
+    {
+        "id": 2145,
+        "name": "研磨・匠珠【４】",
+        "slot": 4,
+        "skills": [
+            {
+                "href": "/cht/skill/Speed%20Sharpening",
+                "level": 1
+            },
+            {
+                "href": "/cht/skill/Handicraft",
+                "level": 1
+            }
+        ]
+    },
+    {
+        "id": 2146,
+        "name": "爆師・匠珠【４】",
+        "slot": 4,
+        "skills": [
+            {
+                "href": "/cht/skill/Bombardier",
+                "level": 1
+            },
+            {
+                "href": "/cht/skill/Handicraft",
+                "level": 1
+            }
+        ]
+    },
+    {
+        "id": 2147,
+        "name": "茸好・匠珠【４】",
+        "slot": 4,
+        "skills": [
+            {
+                "href": "/cht/skill/Mushroomancer",
+                "level": 1
+            },
+            {
+                "href": "/cht/skill/Handicraft",
+                "level": 1
+            }
+        ]
+    },
+    {
+        "id": 2148,
+        "name": "滑走・匠珠【４】",
+        "slot": 4,
+        "skills": [
+            {
+                "href": "/cht/skill/Affinity%20Sliding",
+                "level": 1
+            },
+            {
+                "href": "/cht/skill/Handicraft",
+                "level": 1
+            }
+        ]
+    },
+    {
+        "id": 2149,
+        "name": "守勢・匠珠【４】",
+        "slot": 4,
+        "skills": [
+            {
+                "href": "/cht/skill/Offensive%20Guard",
+                "level": 1
+            },
+            {
+                "href": "/cht/skill/Handicraft",
+                "level": 1
+            }
+        ]
+    },
+    {
+        "id": 2150,
+        "name": "耐震・加護珠【４】",
+        "slot": 4,
+        "skills": [
+            {
+                "href": "/cht/skill/Tremor%20Resistance",
+                "level": 1
+            },
+            {
+                "href": "/cht/skill/Divine%20Blessing",
+                "level": 1
+            }
+        ]
+    },
+    {
+        "id": 2151,
+        "name": "縮短・加護珠【４】",
+        "slot": 4,
+        "skills": [
+            {
+                "href": "/cht/skill/Focus",
+                "level": 1
+            },
+            {
+                "href": "/cht/skill/Divine%20Blessing",
+                "level": 1
+            }
+        ]
+    },
+    {
+        "id": 2152,
+        "name": "昂揚・加護珠【４】",
+        "slot": 4,
+        "skills": [
+            {
+                "href": "/cht/skill/Power%20Prolonger",
+                "level": 1
+            },
+            {
+                "href": "/cht/skill/Divine%20Blessing",
+                "level": 1
+            }
+        ]
+    },
+    {
+        "id": 2153,
+        "name": "重撃・加護珠【４】",
+        "slot": 4,
+        "skills": [
+            {
+                "href": "/cht/skill/Partbreaker",
+                "level": 1
+            },
+            {
+                "href": "/cht/skill/Divine%20Blessing",
+                "level": 1
+            }
+        ]
+    },
+    {
+        "id": 2154,
+        "name": "ＫＯ・加護珠【４】",
+        "slot": 4,
+        "skills": [
+            {
+                "href": "/cht/skill/Slugger",
+                "level": 1
+            },
+            {
+                "href": "/cht/skill/Divine%20Blessing",
+                "level": 1
+            }
+        ]
+    },
+    {
+        "id": 2155,
+        "name": "底力・加護珠【４】",
+        "slot": 4,
+        "skills": [
+            {
+                "href": "/cht/skill/Heroics",
+                "level": 1
+            },
+            {
+                "href": "/cht/skill/Divine%20Blessing",
+                "level": 1
+            }
+        ]
+    },
+    {
+        "id": 2156,
+        "name": "防風・加護珠【４】",
+        "slot": 4,
+        "skills": [
+            {
+                "href": "/cht/skill/Windproof",
+                "level": 1
+            },
+            {
+                "href": "/cht/skill/Divine%20Blessing",
+                "level": 1
+            }
+        ]
+    },
+    {
+        "id": 2157,
+        "name": "拔刀・加護珠【４】",
+        "slot": 4,
+        "skills": [
+            {
+                "href": "/cht/skill/Critical%20Draw",
+                "level": 1
+            },
+            {
+                "href": "/cht/skill/Divine%20Blessing",
+                "level": 1
+            }
+        ]
+    },
+    {
+        "id": 2158,
+        "name": "全開・加護珠【４】",
+        "slot": 4,
+        "skills": [
+            {
+                "href": "/cht/skill/Latent%20Power",
+                "level": 1
+            },
+            {
+                "href": "/cht/skill/Divine%20Blessing",
+                "level": 1
+            }
+        ]
+    },
+    {
+        "id": 2159,
+        "name": "挑戰・加護珠【４】",
+        "slot": 4,
+        "skills": [
+            {
+                "href": "/cht/skill/Agitator",
+                "level": 1
+            },
+            {
+                "href": "/cht/skill/Divine%20Blessing",
+                "level": 1
+            }
+        ]
+    },
+    {
+        "id": 2160,
+        "name": "無傷・加護珠【４】",
+        "slot": 4,
+        "skills": [
+            {
+                "href": "/cht/skill/Peak%20Performance",
+                "level": 1
+            },
+            {
+                "href": "/cht/skill/Divine%20Blessing",
+                "level": 1
+            }
+        ]
+    },
+    {
+        "id": 2161,
+        "name": "逆上・加護珠【４】",
+        "slot": 4,
+        "skills": [
+            {
+                "href": "/cht/skill/Resentment",
+                "level": 1
+            },
+            {
+                "href": "/cht/skill/Divine%20Blessing",
+                "level": 1
+            }
+        ]
+    },
+    {
+        "id": 2162,
+        "name": "渾身・加護珠【４】",
+        "slot": 4,
+        "skills": [
+            {
+                "href": "/cht/skill/Maximum%20Might",
+                "level": 1
+            },
+            {
+                "href": "/cht/skill/Divine%20Blessing",
+                "level": 1
+            }
+        ]
+    },
+    {
+        "id": 2163,
+        "name": "耐衝・加護珠【４】",
+        "slot": 4,
+        "skills": [
+            {
+                "href": "/cht/skill/Flinch%20Free",
+                "level": 1
+            },
+            {
+                "href": "/cht/skill/Divine%20Blessing",
+                "level": 1
+            }
+        ]
+    },
+    {
+        "id": 2164,
+        "name": "轉福・加護珠【４】",
+        "slot": 4,
+        "skills": [
+            {
+                "href": "/cht/skill/Coalescence",
+                "level": 1
+            },
+            {
+                "href": "/cht/skill/Divine%20Blessing",
+                "level": 1
+            }
+        ]
+    },
+    {
+        "id": 2165,
+        "name": "防音・加護珠【４】",
+        "slot": 4,
+        "skills": [
+            {
+                "href": "/cht/skill/Earplugs",
+                "level": 1
+            },
+            {
+                "href": "/cht/skill/Divine%20Blessing",
+                "level": 1
+            }
+        ]
+    },
+    {
+        "id": 2166,
+        "name": "超心・加護珠【４】",
+        "slot": 4,
+        "skills": [
+            {
+                "href": "/cht/skill/Critical%20Boost",
+                "level": 1
+            },
+            {
+                "href": "/cht/skill/Divine%20Blessing",
+                "level": 1
+            }
+        ]
+    },
+    {
+        "id": 2167,
+        "name": "痛擊・加護珠【４】",
+        "slot": 4,
+        "skills": [
+            {
+                "href": "/cht/skill/Weakness%20Exploit",
+                "level": 1
+            },
+            {
+                "href": "/cht/skill/Divine%20Blessing",
+                "level": 1
+            }
+        ]
+    },
+    {
+        "id": 2168,
+        "name": "匠・加護珠【４】",
+        "slot": 4,
+        "skills": [
+            {
+                "href": "/cht/skill/Handicraft",
+                "level": 1
+            },
+            {
+                "href": "/cht/skill/Divine%20Blessing",
+                "level": 1
+            }
+        ]
+    },
+    {
+        "id": 2169,
+        "name": "解放・加護珠【４】",
+        "slot": 4,
+        "skills": [
+            {
+                "href": "/cht/skill/Free%20Elem%26Ammo%20Up",
+                "level": 1
+            },
+            {
+                "href": "/cht/skill/Divine%20Blessing",
+                "level": 1
+            }
+        ]
+    },
+    {
+        "id": 2170,
+        "name": "耐震・治癒珠【４】",
+        "slot": 4,
+        "skills": [
+            {
+                "href": "/cht/skill/Tremor%20Resistance",
+                "level": 1
+            },
+            {
+                "href": "/cht/skill/Recovery%20Up",
+                "level": 1
+            }
+        ]
+    },
+    {
+        "id": 2171,
+        "name": "縮短・治癒珠【４】",
+        "slot": 4,
+        "skills": [
+            {
+                "href": "/cht/skill/Focus",
+                "level": 1
+            },
+            {
+                "href": "/cht/skill/Recovery%20Up",
+                "level": 1
+            }
+        ]
+    },
+    {
+        "id": 2172,
+        "name": "昂揚・治癒珠【４】",
+        "slot": 4,
+        "skills": [
+            {
+                "href": "/cht/skill/Power%20Prolonger",
+                "level": 1
+            },
+            {
+                "href": "/cht/skill/Recovery%20Up",
+                "level": 1
+            }
+        ]
+    },
+    {
+        "id": 2173,
+        "name": "重撃・治癒珠【４】",
+        "slot": 4,
+        "skills": [
+            {
+                "href": "/cht/skill/Partbreaker",
+                "level": 1
+            },
+            {
+                "href": "/cht/skill/Recovery%20Up",
+                "level": 1
+            }
+        ]
+    },
+    {
+        "id": 2174,
+        "name": "ＫＯ・治癒珠【４】",
+        "slot": 4,
+        "skills": [
+            {
+                "href": "/cht/skill/Slugger",
+                "level": 1
+            },
+            {
+                "href": "/cht/skill/Recovery%20Up",
+                "level": 1
+            }
+        ]
+    },
+    {
+        "id": 2175,
+        "name": "底力・治癒珠【４】",
+        "slot": 4,
+        "skills": [
+            {
+                "href": "/cht/skill/Heroics",
+                "level": 1
+            },
+            {
+                "href": "/cht/skill/Recovery%20Up",
+                "level": 1
+            }
+        ]
+    },
+    {
+        "id": 2176,
+        "name": "防風・治癒珠【４】",
+        "slot": 4,
+        "skills": [
+            {
+                "href": "/cht/skill/Windproof",
+                "level": 1
+            },
+            {
+                "href": "/cht/skill/Recovery%20Up",
+                "level": 1
+            }
+        ]
+    },
+    {
+        "id": 2177,
+        "name": "拔刀・治癒珠【４】",
+        "slot": 4,
+        "skills": [
+            {
+                "href": "/cht/skill/Critical%20Draw",
+                "level": 1
+            },
+            {
+                "href": "/cht/skill/Recovery%20Up",
+                "level": 1
+            }
+        ]
+    },
+    {
+        "id": 2178,
+        "name": "全開・治癒珠【４】",
+        "slot": 4,
+        "skills": [
+            {
+                "href": "/cht/skill/Latent%20Power",
+                "level": 1
+            },
+            {
+                "href": "/cht/skill/Recovery%20Up",
+                "level": 1
+            }
+        ]
+    },
+    {
+        "id": 2179,
+        "name": "挑戰・治癒珠【４】",
+        "slot": 4,
+        "skills": [
+            {
+                "href": "/cht/skill/Agitator",
+                "level": 1
+            },
+            {
+                "href": "/cht/skill/Recovery%20Up",
+                "level": 1
+            }
+        ]
+    },
+    {
+        "id": 2180,
+        "name": "無傷・治癒珠【４】",
+        "slot": 4,
+        "skills": [
+            {
+                "href": "/cht/skill/Peak%20Performance",
+                "level": 1
+            },
+            {
+                "href": "/cht/skill/Recovery%20Up",
+                "level": 1
+            }
+        ]
+    },
+    {
+        "id": 2181,
+        "name": "逆上・治癒珠【４】",
+        "slot": 4,
+        "skills": [
+            {
+                "href": "/cht/skill/Resentment",
+                "level": 1
+            },
+            {
+                "href": "/cht/skill/Recovery%20Up",
+                "level": 1
+            }
+        ]
+    },
+    {
+        "id": 2182,
+        "name": "渾身・治癒珠【４】",
+        "slot": 4,
+        "skills": [
+            {
+                "href": "/cht/skill/Maximum%20Might",
+                "level": 1
+            },
+            {
+                "href": "/cht/skill/Recovery%20Up",
+                "level": 1
+            }
+        ]
+    },
+    {
+        "id": 2183,
+        "name": "耐衝・治癒珠【４】",
+        "slot": 4,
+        "skills": [
+            {
+                "href": "/cht/skill/Flinch%20Free",
+                "level": 1
+            },
+            {
+                "href": "/cht/skill/Recovery%20Up",
+                "level": 1
+            }
+        ]
+    },
+    {
+        "id": 2184,
+        "name": "轉福・治癒珠【４】",
+        "slot": 4,
+        "skills": [
+            {
+                "href": "/cht/skill/Coalescence",
+                "level": 1
+            },
+            {
+                "href": "/cht/skill/Recovery%20Up",
+                "level": 1
+            }
+        ]
+    },
+    {
+        "id": 2185,
+        "name": "防音・治癒珠【４】",
+        "slot": 4,
+        "skills": [
+            {
+                "href": "/cht/skill/Earplugs",
+                "level": 1
+            },
+            {
+                "href": "/cht/skill/Recovery%20Up",
+                "level": 1
+            }
+        ]
+    },
+    {
+        "id": 2186,
+        "name": "超心・治癒珠【４】",
+        "slot": 4,
+        "skills": [
+            {
+                "href": "/cht/skill/Critical%20Boost",
+                "level": 1
+            },
+            {
+                "href": "/cht/skill/Recovery%20Up",
+                "level": 1
+            }
+        ]
+    },
+    {
+        "id": 2187,
+        "name": "痛擊・治癒珠【４】",
+        "slot": 4,
+        "skills": [
+            {
+                "href": "/cht/skill/Weakness%20Exploit",
+                "level": 1
+            },
+            {
+                "href": "/cht/skill/Recovery%20Up",
+                "level": 1
+            }
+        ]
+    },
+    {
+        "id": 2188,
+        "name": "匠・治癒珠【４】",
+        "slot": 4,
+        "skills": [
+            {
+                "href": "/cht/skill/Handicraft",
+                "level": 1
+            },
+            {
+                "href": "/cht/skill/Recovery%20Up",
+                "level": 1
+            }
+        ]
+    },
+    {
+        "id": 2189,
+        "name": "解放・治癒珠【４】",
+        "slot": 4,
+        "skills": [
+            {
+                "href": "/cht/skill/Free%20Elem%26Ammo%20Up",
+                "level": 1
+            },
+            {
+                "href": "/cht/skill/Recovery%20Up",
+                "level": 1
+            }
+        ]
+    },
+    {
+        "id": 2190,
+        "name": "耐震・體力珠【４】",
+        "slot": 4,
+        "skills": [
+            {
+                "href": "/cht/skill/Tremor%20Resistance",
+                "level": 1
+            },
+            {
+                "href": "/cht/skill/Health%20Boost",
+                "level": 1
+            }
+        ]
+    },
+    {
+        "id": 2191,
+        "name": "縮短・體力珠【４】",
+        "slot": 4,
+        "skills": [
+            {
+                "href": "/cht/skill/Focus",
+                "level": 1
+            },
+            {
+                "href": "/cht/skill/Health%20Boost",
+                "level": 1
+            }
+        ]
+    },
+    {
+        "id": 2192,
+        "name": "昂揚・體力珠【４】",
+        "slot": 4,
+        "skills": [
+            {
+                "href": "/cht/skill/Power%20Prolonger",
+                "level": 1
+            },
+            {
+                "href": "/cht/skill/Health%20Boost",
+                "level": 1
+            }
+        ]
+    },
+    {
+        "id": 2193,
+        "name": "重撃・體力珠【４】",
+        "slot": 4,
+        "skills": [
+            {
+                "href": "/cht/skill/Partbreaker",
+                "level": 1
+            },
+            {
+                "href": "/cht/skill/Health%20Boost",
+                "level": 1
+            }
+        ]
+    },
+    {
+        "id": 2194,
+        "name": "ＫＯ・體力珠【４】",
+        "slot": 4,
+        "skills": [
+            {
+                "href": "/cht/skill/Slugger",
+                "level": 1
+            },
+            {
+                "href": "/cht/skill/Health%20Boost",
+                "level": 1
+            }
+        ]
+    },
+    {
+        "id": 2195,
+        "name": "底力・體力珠【４】",
+        "slot": 4,
+        "skills": [
+            {
+                "href": "/cht/skill/Heroics",
+                "level": 1
+            },
+            {
+                "href": "/cht/skill/Health%20Boost",
+                "level": 1
+            }
+        ]
+    },
+    {
+        "id": 2196,
+        "name": "防風・體力珠【４】",
+        "slot": 4,
+        "skills": [
+            {
+                "href": "/cht/skill/Windproof",
+                "level": 1
+            },
+            {
+                "href": "/cht/skill/Health%20Boost",
+                "level": 1
+            }
+        ]
+    },
+    {
+        "id": 2197,
+        "name": "拔刀・體力珠【４】",
+        "slot": 4,
+        "skills": [
+            {
+                "href": "/cht/skill/Critical%20Draw",
+                "level": 1
+            },
+            {
+                "href": "/cht/skill/Health%20Boost",
+                "level": 1
+            }
+        ]
+    },
+    {
+        "id": 2198,
+        "name": "全開・體力珠【４】",
+        "slot": 4,
+        "skills": [
+            {
+                "href": "/cht/skill/Latent%20Power",
+                "level": 1
+            },
+            {
+                "href": "/cht/skill/Health%20Boost",
+                "level": 1
+            }
+        ]
+    },
+    {
+        "id": 2199,
+        "name": "挑戰・體力珠【４】",
+        "slot": 4,
+        "skills": [
+            {
+                "href": "/cht/skill/Agitator",
+                "level": 1
+            },
+            {
+                "href": "/cht/skill/Health%20Boost",
+                "level": 1
+            }
+        ]
+    },
+    {
+        "id": 2200,
+        "name": "無傷・體力珠【４】",
+        "slot": 4,
+        "skills": [
+            {
+                "href": "/cht/skill/Peak%20Performance",
+                "level": 1
+            },
+            {
+                "href": "/cht/skill/Health%20Boost",
+                "level": 1
+            }
+        ]
+    },
+    {
+        "id": 2201,
+        "name": "逆上・體力珠【４】",
+        "slot": 4,
+        "skills": [
+            {
+                "href": "/cht/skill/Resentment",
+                "level": 1
+            },
+            {
+                "href": "/cht/skill/Health%20Boost",
+                "level": 1
+            }
+        ]
+    },
+    {
+        "id": 2202,
+        "name": "渾身・體力珠【４】",
+        "slot": 4,
+        "skills": [
+            {
+                "href": "/cht/skill/Maximum%20Might",
+                "level": 1
+            },
+            {
+                "href": "/cht/skill/Health%20Boost",
+                "level": 1
+            }
+        ]
+    },
+    {
+        "id": 2203,
+        "name": "耐衝・體力珠【４】",
+        "slot": 4,
+        "skills": [
+            {
+                "href": "/cht/skill/Flinch%20Free",
+                "level": 1
+            },
+            {
+                "href": "/cht/skill/Health%20Boost",
+                "level": 1
+            }
+        ]
+    },
+    {
+        "id": 2204,
+        "name": "轉福・體力珠【４】",
+        "slot": 4,
+        "skills": [
+            {
+                "href": "/cht/skill/Coalescence",
+                "level": 1
+            },
+            {
+                "href": "/cht/skill/Health%20Boost",
+                "level": 1
+            }
+        ]
+    },
+    {
+        "id": 2205,
+        "name": "防音・體力珠【４】",
+        "slot": 4,
+        "skills": [
+            {
+                "href": "/cht/skill/Earplugs",
+                "level": 1
+            },
+            {
+                "href": "/cht/skill/Health%20Boost",
+                "level": 1
+            }
+        ]
+    },
+    {
+        "id": 2206,
+        "name": "超心・體力珠【４】",
+        "slot": 4,
+        "skills": [
+            {
+                "href": "/cht/skill/Critical%20Boost",
+                "level": 1
+            },
+            {
+                "href": "/cht/skill/Health%20Boost",
+                "level": 1
+            }
+        ]
+    },
+    {
+        "id": 2207,
+        "name": "痛擊・體力珠【４】",
+        "slot": 4,
+        "skills": [
+            {
+                "href": "/cht/skill/Weakness%20Exploit",
+                "level": 1
+            },
+            {
+                "href": "/cht/skill/Health%20Boost",
+                "level": 1
+            }
+        ]
+    },
+    {
+        "id": 2208,
+        "name": "匠・體力珠【４】",
+        "slot": 4,
+        "skills": [
+            {
+                "href": "/cht/skill/Handicraft",
+                "level": 1
+            },
+            {
+                "href": "/cht/skill/Health%20Boost",
+                "level": 1
+            }
+        ]
+    },
+    {
+        "id": 2209,
+        "name": "解放・體力珠【４】",
+        "slot": 4,
+        "skills": [
+            {
+                "href": "/cht/skill/Free%20Elem%26Ammo%20Up",
+                "level": 1
+            },
+            {
+                "href": "/cht/skill/Health%20Boost",
+                "level": 1
+            }
+        ]
+    },
+    {
+        "id": 2210,
+        "name": "耐震・整備珠【４】",
+        "slot": 4,
+        "skills": [
+            {
+                "href": "/cht/skill/Tremor%20Resistance",
+                "level": 1
+            },
+            {
+                "href": "/cht/skill/Tool%20Specialist",
+                "level": 1
+            }
+        ]
+    },
+    {
+        "id": 2211,
+        "name": "縮短・整備珠【４】",
+        "slot": 4,
+        "skills": [
+            {
+                "href": "/cht/skill/Focus",
+                "level": 1
+            },
+            {
+                "href": "/cht/skill/Tool%20Specialist",
+                "level": 1
+            }
+        ]
+    },
+    {
+        "id": 2212,
+        "name": "昂揚・整備珠【４】",
+        "slot": 4,
+        "skills": [
+            {
+                "href": "/cht/skill/Power%20Prolonger",
+                "level": 1
+            },
+            {
+                "href": "/cht/skill/Tool%20Specialist",
+                "level": 1
+            }
+        ]
+    },
+    {
+        "id": 2213,
+        "name": "重撃・整備珠【４】",
+        "slot": 4,
+        "skills": [
+            {
+                "href": "/cht/skill/Partbreaker",
+                "level": 1
+            },
+            {
+                "href": "/cht/skill/Tool%20Specialist",
+                "level": 1
+            }
+        ]
+    },
+    {
+        "id": 2214,
+        "name": "ＫＯ・整備珠【４】",
+        "slot": 4,
+        "skills": [
+            {
+                "href": "/cht/skill/Slugger",
+                "level": 1
+            },
+            {
+                "href": "/cht/skill/Tool%20Specialist",
+                "level": 1
+            }
+        ]
+    },
+    {
+        "id": 2215,
+        "name": "底力・整備珠【４】",
+        "slot": 4,
+        "skills": [
+            {
+                "href": "/cht/skill/Heroics",
+                "level": 1
+            },
+            {
+                "href": "/cht/skill/Tool%20Specialist",
+                "level": 1
+            }
+        ]
+    },
+    {
+        "id": 2216,
+        "name": "防風・整備珠【４】",
+        "slot": 4,
+        "skills": [
+            {
+                "href": "/cht/skill/Windproof",
+                "level": 1
+            },
+            {
+                "href": "/cht/skill/Tool%20Specialist",
+                "level": 1
+            }
+        ]
+    },
+    {
+        "id": 2217,
+        "name": "拔刀・整備珠【４】",
+        "slot": 4,
+        "skills": [
+            {
+                "href": "/cht/skill/Critical%20Draw",
+                "level": 1
+            },
+            {
+                "href": "/cht/skill/Tool%20Specialist",
+                "level": 1
+            }
+        ]
+    },
+    {
+        "id": 2218,
+        "name": "全開・整備珠【４】",
+        "slot": 4,
+        "skills": [
+            {
+                "href": "/cht/skill/Latent%20Power",
+                "level": 1
+            },
+            {
+                "href": "/cht/skill/Tool%20Specialist",
+                "level": 1
+            }
+        ]
+    },
+    {
+        "id": 2219,
+        "name": "挑戰・整備珠【４】",
+        "slot": 4,
+        "skills": [
+            {
+                "href": "/cht/skill/Agitator",
+                "level": 1
+            },
+            {
+                "href": "/cht/skill/Tool%20Specialist",
+                "level": 1
+            }
+        ]
+    },
+    {
+        "id": 2220,
+        "name": "無傷・整備珠【４】",
+        "slot": 4,
+        "skills": [
+            {
+                "href": "/cht/skill/Peak%20Performance",
+                "level": 1
+            },
+            {
+                "href": "/cht/skill/Tool%20Specialist",
+                "level": 1
+            }
+        ]
+    },
+    {
+        "id": 2221,
+        "name": "逆上・整備珠【４】",
+        "slot": 4,
+        "skills": [
+            {
+                "href": "/cht/skill/Resentment",
+                "level": 1
+            },
+            {
+                "href": "/cht/skill/Tool%20Specialist",
+                "level": 1
+            }
+        ]
+    },
+    {
+        "id": 2222,
+        "name": "渾身・整備珠【４】",
+        "slot": 4,
+        "skills": [
+            {
+                "href": "/cht/skill/Maximum%20Might",
+                "level": 1
+            },
+            {
+                "href": "/cht/skill/Tool%20Specialist",
+                "level": 1
+            }
+        ]
+    },
+    {
+        "id": 2223,
+        "name": "耐衝・整備珠【４】",
+        "slot": 4,
+        "skills": [
+            {
+                "href": "/cht/skill/Flinch%20Free",
+                "level": 1
+            },
+            {
+                "href": "/cht/skill/Tool%20Specialist",
+                "level": 1
+            }
+        ]
+    },
+    {
+        "id": 2224,
+        "name": "轉福・整備珠【４】",
+        "slot": 4,
+        "skills": [
+            {
+                "href": "/cht/skill/Coalescence",
+                "level": 1
+            },
+            {
+                "href": "/cht/skill/Tool%20Specialist",
+                "level": 1
+            }
+        ]
+    },
+    {
+        "id": 2225,
+        "name": "防音・整備珠【４】",
+        "slot": 4,
+        "skills": [
+            {
+                "href": "/cht/skill/Earplugs",
+                "level": 1
+            },
+            {
+                "href": "/cht/skill/Tool%20Specialist",
+                "level": 1
+            }
+        ]
+    },
+    {
+        "id": 2226,
+        "name": "超心・整備珠【４】",
+        "slot": 4,
+        "skills": [
+            {
+                "href": "/cht/skill/Critical%20Boost",
+                "level": 1
+            },
+            {
+                "href": "/cht/skill/Tool%20Specialist",
+                "level": 1
+            }
+        ]
+    },
+    {
+        "id": 2227,
+        "name": "痛擊・整備珠【４】",
+        "slot": 4,
+        "skills": [
+            {
+                "href": "/cht/skill/Weakness%20Exploit",
+                "level": 1
+            },
+            {
+                "href": "/cht/skill/Tool%20Specialist",
+                "level": 1
+            }
+        ]
+    },
+    {
+        "id": 2228,
+        "name": "匠・整備珠【４】",
+        "slot": 4,
+        "skills": [
+            {
+                "href": "/cht/skill/Handicraft",
+                "level": 1
+            },
+            {
+                "href": "/cht/skill/Tool%20Specialist",
+                "level": 1
+            }
+        ]
+    },
+    {
+        "id": 2229,
+        "name": "解放・整備珠【４】",
+        "slot": 4,
+        "skills": [
+            {
+                "href": "/cht/skill/Free%20Elem%26Ammo%20Up",
+                "level": 1
+            },
+            {
+                "href": "/cht/skill/Tool%20Specialist",
+                "level": 1
+            }
+        ]
+    },
+    {
+        "id": 2230,
+        "name": "耐震・體術珠【４】",
+        "slot": 4,
+        "skills": [
+            {
+                "href": "/cht/skill/Tremor%20Resistance",
+                "level": 1
+            },
+            {
+                "href": "/cht/skill/Constitution",
+                "level": 1
+            }
+        ]
+    },
+    {
+        "id": 2231,
+        "name": "縮短・體術珠【４】",
+        "slot": 4,
+        "skills": [
+            {
+                "href": "/cht/skill/Focus",
+                "level": 1
+            },
+            {
+                "href": "/cht/skill/Constitution",
+                "level": 1
+            }
+        ]
+    },
+    {
+        "id": 2232,
+        "name": "昂揚・體術珠【４】",
+        "slot": 4,
+        "skills": [
+            {
+                "href": "/cht/skill/Power%20Prolonger",
+                "level": 1
+            },
+            {
+                "href": "/cht/skill/Constitution",
+                "level": 1
+            }
+        ]
+    },
+    {
+        "id": 2233,
+        "name": "重撃・體術珠【４】",
+        "slot": 4,
+        "skills": [
+            {
+                "href": "/cht/skill/Partbreaker",
+                "level": 1
+            },
+            {
+                "href": "/cht/skill/Constitution",
+                "level": 1
+            }
+        ]
+    },
+    {
+        "id": 2234,
+        "name": "ＫＯ・體術珠【４】",
+        "slot": 4,
+        "skills": [
+            {
+                "href": "/cht/skill/Slugger",
+                "level": 1
+            },
+            {
+                "href": "/cht/skill/Constitution",
+                "level": 1
+            }
+        ]
+    },
+    {
+        "id": 2235,
+        "name": "底力・體術珠【４】",
+        "slot": 4,
+        "skills": [
+            {
+                "href": "/cht/skill/Heroics",
+                "level": 1
+            },
+            {
+                "href": "/cht/skill/Constitution",
+                "level": 1
+            }
+        ]
+    },
+    {
+        "id": 2236,
+        "name": "防風・體術珠【４】",
+        "slot": 4,
+        "skills": [
+            {
+                "href": "/cht/skill/Windproof",
+                "level": 1
+            },
+            {
+                "href": "/cht/skill/Constitution",
+                "level": 1
+            }
+        ]
+    },
+    {
+        "id": 2237,
+        "name": "拔刀・體術珠【４】",
+        "slot": 4,
+        "skills": [
+            {
+                "href": "/cht/skill/Critical%20Draw",
+                "level": 1
+            },
+            {
+                "href": "/cht/skill/Constitution",
+                "level": 1
+            }
+        ]
+    },
+    {
+        "id": 2238,
+        "name": "全開・體術珠【４】",
+        "slot": 4,
+        "skills": [
+            {
+                "href": "/cht/skill/Latent%20Power",
+                "level": 1
+            },
+            {
+                "href": "/cht/skill/Constitution",
+                "level": 1
+            }
+        ]
+    },
+    {
+        "id": 2239,
+        "name": "挑戰・體術珠【４】",
+        "slot": 4,
+        "skills": [
+            {
+                "href": "/cht/skill/Agitator",
+                "level": 1
+            },
+            {
+                "href": "/cht/skill/Constitution",
+                "level": 1
+            }
+        ]
+    },
+    {
+        "id": 2240,
+        "name": "無傷・體術珠【４】",
+        "slot": 4,
+        "skills": [
+            {
+                "href": "/cht/skill/Peak%20Performance",
+                "level": 1
+            },
+            {
+                "href": "/cht/skill/Constitution",
+                "level": 1
+            }
+        ]
+    },
+    {
+        "id": 2241,
+        "name": "逆上・體術珠【４】",
+        "slot": 4,
+        "skills": [
+            {
+                "href": "/cht/skill/Resentment",
+                "level": 1
+            },
+            {
+                "href": "/cht/skill/Constitution",
+                "level": 1
+            }
+        ]
+    },
+    {
+        "id": 2242,
+        "name": "渾身・體術珠【４】",
+        "slot": 4,
+        "skills": [
+            {
+                "href": "/cht/skill/Maximum%20Might",
+                "level": 1
+            },
+            {
+                "href": "/cht/skill/Constitution",
+                "level": 1
+            }
+        ]
+    },
+    {
+        "id": 2243,
+        "name": "耐衝・體術珠【４】",
+        "slot": 4,
+        "skills": [
+            {
+                "href": "/cht/skill/Flinch%20Free",
+                "level": 1
+            },
+            {
+                "href": "/cht/skill/Constitution",
+                "level": 1
+            }
+        ]
+    },
+    {
+        "id": 2244,
+        "name": "轉福・體術珠【４】",
+        "slot": 4,
+        "skills": [
+            {
+                "href": "/cht/skill/Coalescence",
+                "level": 1
+            },
+            {
+                "href": "/cht/skill/Constitution",
+                "level": 1
+            }
+        ]
+    },
+    {
+        "id": 2245,
+        "name": "防音・體術珠【４】",
+        "slot": 4,
+        "skills": [
+            {
+                "href": "/cht/skill/Earplugs",
+                "level": 1
+            },
+            {
+                "href": "/cht/skill/Constitution",
+                "level": 1
+            }
+        ]
+    },
+    {
+        "id": 2246,
+        "name": "超心・體術珠【４】",
+        "slot": 4,
+        "skills": [
+            {
+                "href": "/cht/skill/Critical%20Boost",
+                "level": 1
+            },
+            {
+                "href": "/cht/skill/Constitution",
+                "level": 1
+            }
+        ]
+    },
+    {
+        "id": 2247,
+        "name": "痛擊・體術珠【４】",
+        "slot": 4,
+        "skills": [
+            {
+                "href": "/cht/skill/Weakness%20Exploit",
+                "level": 1
+            },
+            {
+                "href": "/cht/skill/Constitution",
+                "level": 1
+            }
+        ]
+    },
+    {
+        "id": 2248,
+        "name": "匠・體術珠【４】",
+        "slot": 4,
+        "skills": [
+            {
+                "href": "/cht/skill/Handicraft",
+                "level": 1
+            },
+            {
+                "href": "/cht/skill/Constitution",
+                "level": 1
+            }
+        ]
+    },
+    {
+        "id": 2249,
+        "name": "解放・體術珠【４】",
+        "slot": 4,
+        "skills": [
+            {
+                "href": "/cht/skill/Free%20Elem%26Ammo%20Up",
+                "level": 1
+            },
+            {
+                "href": "/cht/skill/Constitution",
+                "level": 1
+            }
+        ]
+    },
+    {
+        "id": 2250,
+        "name": "耐震・回避珠【４】",
+        "slot": 4,
+        "skills": [
+            {
+                "href": "/cht/skill/Tremor%20Resistance",
+                "level": 1
+            },
+            {
+                "href": "/cht/skill/Evade%20Window",
+                "level": 1
+            }
+        ]
+    },
+    {
+        "id": 2251,
+        "name": "縮短・回避珠【４】",
+        "slot": 4,
+        "skills": [
+            {
+                "href": "/cht/skill/Focus",
+                "level": 1
+            },
+            {
+                "href": "/cht/skill/Evade%20Window",
+                "level": 1
+            }
+        ]
+    },
+    {
+        "id": 2252,
+        "name": "昂揚・回避珠【４】",
+        "slot": 4,
+        "skills": [
+            {
+                "href": "/cht/skill/Power%20Prolonger",
+                "level": 1
+            },
+            {
+                "href": "/cht/skill/Evade%20Window",
+                "level": 1
+            }
+        ]
+    },
+    {
+        "id": 2253,
+        "name": "重撃・回避珠【４】",
+        "slot": 4,
+        "skills": [
+            {
+                "href": "/cht/skill/Partbreaker",
+                "level": 1
+            },
+            {
+                "href": "/cht/skill/Evade%20Window",
+                "level": 1
+            }
+        ]
+    },
+    {
+        "id": 2254,
+        "name": "ＫＯ・回避珠【４】",
+        "slot": 4,
+        "skills": [
+            {
+                "href": "/cht/skill/Slugger",
+                "level": 1
+            },
+            {
+                "href": "/cht/skill/Evade%20Window",
+                "level": 1
+            }
+        ]
+    },
+    {
+        "id": 2255,
+        "name": "底力・回避珠【４】",
+        "slot": 4,
+        "skills": [
+            {
+                "href": "/cht/skill/Heroics",
+                "level": 1
+            },
+            {
+                "href": "/cht/skill/Evade%20Window",
+                "level": 1
+            }
+        ]
+    },
+    {
+        "id": 2256,
+        "name": "防風・回避珠【４】",
+        "slot": 4,
+        "skills": [
+            {
+                "href": "/cht/skill/Windproof",
+                "level": 1
+            },
+            {
+                "href": "/cht/skill/Evade%20Window",
+                "level": 1
+            }
+        ]
+    },
+    {
+        "id": 2257,
+        "name": "拔刀・回避珠【４】",
+        "slot": 4,
+        "skills": [
+            {
+                "href": "/cht/skill/Critical%20Draw",
+                "level": 1
+            },
+            {
+                "href": "/cht/skill/Evade%20Window",
+                "level": 1
+            }
+        ]
+    },
+    {
+        "id": 2258,
+        "name": "全開・回避珠【４】",
+        "slot": 4,
+        "skills": [
+            {
+                "href": "/cht/skill/Latent%20Power",
+                "level": 1
+            },
+            {
+                "href": "/cht/skill/Evade%20Window",
+                "level": 1
+            }
+        ]
+    },
+    {
+        "id": 2259,
+        "name": "挑戰・回避珠【４】",
+        "slot": 4,
+        "skills": [
+            {
+                "href": "/cht/skill/Agitator",
+                "level": 1
+            },
+            {
+                "href": "/cht/skill/Evade%20Window",
+                "level": 1
+            }
+        ]
+    },
+    {
+        "id": 2260,
+        "name": "無傷・回避珠【４】",
+        "slot": 4,
+        "skills": [
+            {
+                "href": "/cht/skill/Peak%20Performance",
+                "level": 1
+            },
+            {
+                "href": "/cht/skill/Evade%20Window",
+                "level": 1
+            }
+        ]
+    },
+    {
+        "id": 2261,
+        "name": "逆上・回避珠【４】",
+        "slot": 4,
+        "skills": [
+            {
+                "href": "/cht/skill/Resentment",
+                "level": 1
+            },
+            {
+                "href": "/cht/skill/Evade%20Window",
+                "level": 1
+            }
+        ]
+    },
+    {
+        "id": 2262,
+        "name": "渾身・回避珠【４】",
+        "slot": 4,
+        "skills": [
+            {
+                "href": "/cht/skill/Maximum%20Might",
+                "level": 1
+            },
+            {
+                "href": "/cht/skill/Evade%20Window",
+                "level": 1
+            }
+        ]
+    },
+    {
+        "id": 2263,
+        "name": "耐衝・回避珠【４】",
+        "slot": 4,
+        "skills": [
+            {
+                "href": "/cht/skill/Flinch%20Free",
+                "level": 1
+            },
+            {
+                "href": "/cht/skill/Evade%20Window",
+                "level": 1
+            }
+        ]
+    },
+    {
+        "id": 2264,
+        "name": "轉福・回避珠【４】",
+        "slot": 4,
+        "skills": [
+            {
+                "href": "/cht/skill/Coalescence",
+                "level": 1
+            },
+            {
+                "href": "/cht/skill/Evade%20Window",
+                "level": 1
+            }
+        ]
+    },
+    {
+        "id": 2265,
+        "name": "防音・回避珠【４】",
+        "slot": 4,
+        "skills": [
+            {
+                "href": "/cht/skill/Earplugs",
+                "level": 1
+            },
+            {
+                "href": "/cht/skill/Evade%20Window",
+                "level": 1
+            }
+        ]
+    },
+    {
+        "id": 2266,
+        "name": "超心・回避珠【４】",
+        "slot": 4,
+        "skills": [
+            {
+                "href": "/cht/skill/Critical%20Boost",
+                "level": 1
+            },
+            {
+                "href": "/cht/skill/Evade%20Window",
+                "level": 1
+            }
+        ]
+    },
+    {
+        "id": 2267,
+        "name": "痛擊・回避珠【４】",
+        "slot": 4,
+        "skills": [
+            {
+                "href": "/cht/skill/Weakness%20Exploit",
+                "level": 1
+            },
+            {
+                "href": "/cht/skill/Evade%20Window",
+                "level": 1
+            }
+        ]
+    },
+    {
+        "id": 2268,
+        "name": "匠・回避珠【４】",
+        "slot": 4,
+        "skills": [
+            {
+                "href": "/cht/skill/Handicraft",
+                "level": 1
+            },
+            {
+                "href": "/cht/skill/Evade%20Window",
+                "level": 1
+            }
+        ]
+    },
+    {
+        "id": 2269,
+        "name": "解放・回避珠【４】",
+        "slot": 4,
+        "skills": [
+            {
+                "href": "/cht/skill/Free%20Elem%26Ammo%20Up",
+                "level": 1
+            },
+            {
+                "href": "/cht/skill/Evade%20Window",
+                "level": 1
+            }
+        ]
+    },
+    {
+        "id": 2272,
+        "name": "耐寒珠【２】",
+        "slot": 2,
+        "skills": [
+            {
+                "href": "/cht/skill/Coldproof",
+                "level": 1
+            }
+        ]
+    }
+]
